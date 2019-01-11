@@ -1,4 +1,4 @@
-![OASIS Open Projects Logo](../img/open-projects-logo.png)
+![OASIS Open Projects Logo](../img/open-project-logos/open-projects-logo.PNG.png)
 
 # OASIS Committee Operations Process
 
