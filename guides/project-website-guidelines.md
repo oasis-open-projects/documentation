@@ -46,4 +46,8 @@ Depending on your project’s needs and the size of your community, your primary
 
 We encourage you to develop and maintain a style guide for your project to promote proper use of your project’s design assets and ensure it remains functional and informative.
 
+### Questions
+
+Contact communications@oasis-open.org with any questions or concerns on this guide.
+
 
