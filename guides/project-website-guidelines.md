@@ -29,10 +29,15 @@ The footer may be modified for projects that need to cite additional policies or
 ### Required content
 
 **About.** “<PROJECT NAME> is an [OASIS Open Project](https://oasis-open-projects.org/)” should be included in the About statement, which may appear on the project’s homepage or a separate page on the primary site. The About statement may also be used on other public pages, such as README files in GitHub.
+  
 **Charter.** Your official OASIS Open Project charter must be published on the project's primary website or, if published on GitHub, a link to the charter must be provided on the primary website.
+
 **Leadership.** Names and corporate affiliations of members of the Project Governing Board, Technical Steering Committee, and any other official project working groups should be published on the project primary website. Photos and/or short bios may be featured but are not required. GitHub teams for the project’s leadership groups may also be created.
+
 **Backers.** Linked logos for all organizations that provide sponsorship funding for the project should be published on the project's primary website. Short corporate descriptions and contact information may be included but are not required. 
+
 **Code of Conduct.** Each project has the option to adopt the OASIS Open Projects CoC (which is based on the widely used [Contributor Covenant](http://contributor-covenant.org/)) or publish its own CoC. The project’s CoC should be linked from the primary website and its GitHub repositories.
+
 **Join.** Instructions for how to contribute to the project, become a Project Backer, and serve in a leadership role must be provided on the project's primary website.
 
 ### Additional content
