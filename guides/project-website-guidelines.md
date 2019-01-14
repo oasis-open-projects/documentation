@@ -28,7 +28,7 @@ The footer may be modified for projects that need to cite additional policies or
 
 ### Required content
 
-**About.** “<PROJECT NAME> is an [OASIS Open Project](https://oasis-open-projects.org/)” should be included in the About statement, which may appear on the project’s homepage or a separate page on the primary site. The About statement may also be used on other public pages, such as README files in GitHub.
+**About.** “{PROJECT NAME} is an [OASIS Open Project](https://oasis-open-projects.org/)” should be included in the About statement, which may appear on the project’s homepage or a separate page on the primary site. The About statement may also be used on other public pages, such as README files in GitHub.
   
 **Charter.** Your official OASIS Open Project charter must be published on the project's primary website or, if published on GitHub, a link to the charter must be provided on the primary website.
 
