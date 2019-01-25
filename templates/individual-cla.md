@@ -2,7 +2,7 @@
 ## OASIS Open Projects: Individual Contributor License Agreement (CLA)
 [This is a verbatim display exhibit of the Web form, supplemented by several hyperlinks]
 
-In order to contribute intellectual property into an [OASIS Open Project](https://www.oasis-open.org/resources/projects/), you must agree to be bound by the terms of this Agreement ("CLA"), so that it is clear what terms apply to your intellectual property contributions. This is a license by you as an individual, for your protection as a contributor as well as for the protection of OASIS Open and all who use the donated material. You are required to agree to this CLA before you contribute to any repository maintained by an OASIS Open Project. You can do so by completing the online form below.
+In order to contribute intellectual property into an [OASIS Open Project](https://www.oasis-open-projects.org/), you must agree to be bound by the terms of this Agreement ("CLA"), so that it is clear what terms apply to your intellectual property contributions. This is a license by you as an individual, for your protection as a contributor as well as for the protection of OASIS Open and all who use the donated material. You are required to agree to this CLA before you contribute to any repository maintained by an OASIS Open Project. You can do so by completing the online form below.
 
 **Contributor information**
 
