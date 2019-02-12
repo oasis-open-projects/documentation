@@ -1,4 +1,4 @@
-![OASIS Open Projects Logo](../img/open-projects-logo.png)
+![OASIS Open Projects Logo](../img/open-projects-logo.PNG.png)
 
 # Draft OASIS Open Project Charter Template
 -------------------------------------------
