@@ -3,7 +3,7 @@
 # Draft Charter Template
 -------------------------------------------
 
-**INSTRUCTIONS FOR USE:** You may copy this template and complete your draft privately or craft it in a public space such as on your existing project repository or shared google drive document. Feel free to invite other interested parties to contribute.
+**INSTRUCTIONS FOR USE:** Ask the Open Projects Administrator to set up a page in our Draft Charters repository where you can publicly collaborate with others in the community. Alternatively, you may copy this template and complete your draft in private or in another public space.
 
 -------------------------------------------
 
