@@ -1,6 +1,6 @@
 <img src="../img/open-project-logos/open-projects-logo.PNG.png" width="300">
 
-# Draft OASIS Open Project Charter Template
+# Draft Charter Template
 -------------------------------------------
 
 **INSTRUCTIONS FOR USE:** You may copy this template and complete your draft privately or craft it in a public space such as on your existing project repository or shared google drive document. Feel free to invite other interested parties to contribute.
@@ -11,6 +11,7 @@
 by OASIS. This charter must be finalized by its proposers and submission
 requirements must be met before it can be considered for formation as an official 
 [[OASIS Open Project]](http://oasis-open-projects.org). Contact the Open Projects Administrator (mailto:op-admin@oasis-open.org) for details on this.
+
 
 | Charter section | Section description. Replace with charter text. |
 |-----------------------------------|-----------------------------------|
