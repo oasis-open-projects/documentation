@@ -7,14 +7,13 @@
 1. [Overview](#1-overview)
 1. [Participating in an Open Project](#2-participating-in-an-open-project) 
 1. [Starting an Open Project](#3-starting-an-open-project)
-1. [Lifecycle of the Project](#4-lifecycle-of-the-project)
-1. [Tools and Resources](#5-tools-and-resources)
-1. [Leadership Roles](#6-leadership-roles)
-1. [Project Governance: Decisions and Meetings](#7-project-governance-decisions-and-meetings)
-1. [Progression of Work](#8-progression-of-work)
-1. [Naming, Branding, and Trademarks](#9-naming-branding-and-trademarks) 
-1. [CLAs and Open Source Licenses](#10-clas-and-open-source-licenses)
-1. [More Information](#11-more-information)
+1. [Tools and Resources](#4-tools-and-resources)
+1. [Leadership Roles](#5-leadership-roles)
+1. [Project Governance: Decisions and Meetings](#6-project-governance-decisions-and-meetings)
+1. [Progression of Work](#7-progression-of-work)
+1. [Naming, Branding, and Trademarks](#8-naming-branding-and-trademarks) 
+1. [CLAs and Open Source Licenses](#9-clas-and-open-source-licenses)
+1. [More Information](#10-more-information)
 
 ## 1. Overview
 
@@ -56,19 +55,19 @@ A PGB may choose to form Technical Steering Committees and/or other groups relat
 
 Participation roles are summarized in this table:
 
-|                                                    | Participant | Contributor | Maintainer | PGB Member |
-| -------------------------------------------------- |:-----------:|:-----------:|:----------:|:----------:|
-| Views Project assets                               |     ✔       |       ✔     |      ✔     |       ✔    |
-| May provide comments and bug reports               |     ✔       |       ✔     |      ✔     |       ✔    |
-| May submit pull requests                           |             |       ✔     |      ✔     |       ✔    | 
-| Responds to pull requests                          |             |             |      ✔     |            |
-| Appoints and supervises Maintainer(s)              |             |             |            |       ✔    |
-| Authorizes creation of repositories                |             |             |            |       ✔    |
-| Approves releases                                  |             |             |            |       ✔    |
-| Approves submissions for Project Specifications    |             |             |            |       ✔    |
-| Approves submissions to de jure standards bodies   |             |             |            |       ✔    |
-| Elects Chair                                       |             |             |            |       ✔    |
-| Must Sign CLA                                      |             |      ✔      |      ✔     |       ✔    |
+|                                                    | Contributor |  Maintainer | PGB Member |
+| -------------------------------------------------- |:-----------:|:-----------:|:----------:|
+| Views Project assets                               |       ✔     |      ✔     |       ✔    |
+| May provide comments and bug reports               |       ✔     |      ✔     |       ✔    |
+| May submit pull requests                           |✔ must sign CLA|     ✔    |       ✔    | 
+| Merges or closes pull requests                     |             |      ✔     |            |
+| Appoints and supervises Maintainer(s)              |             |            |       ✔    |
+| Authorizes creation of repositories                |             |            |       ✔    |
+| Approves releases                                  |             |            |       ✔    |
+| Approves submissions for Project Specifications    |             |            |       ✔    |
+| Approves submissions to de jure standards bodies   |             |            |       ✔    |
+| Elects Chair                                       |             |            |       ✔    |
+| Must Sign CLA                                      |✔ if submitting PR| ✔     |       ✔    |
 
 *Also see [Section 6: Leadership Roles](#6-leadership-roles).*
 
@@ -180,51 +179,41 @@ When you are ready to submit your charter, notify OASIS via email. The Open Proj
 OASIS will officially launch your project as soon as possible after your final charter has been submitted and reviewed. We will build your Open Project site on GitHub with an issues tracker, repositories, and wiki where your charter will be publicly viewable. OASIS will announce the project and issue an invitation to participate via OASIS websites, mailing lists, and social media channels.
 
 
-## 4. Lifecycle of the Project 
-
-At any point in its lifecycle, an Open Project will be in one of four stages:  
-
-* **Proposed:** This is the stage when the project charter is being drafted and initial members are recruited. The project will have one asset: its draft charter. The proposers can take the time needed to craft a charter with a compelling value proposition and can recruit interested parties. 
-* **Active:**  Once a project is Active, OASIS staff set up the full complement of collaboration tools for the project members. The project’s assets are publicly visible and work proceeds. 
-* **Maintenance:** This stage indicates that active, day-to-day work is not underway but that the Maintainer(s) of the project continue to monitor implementations and respond to questions, bug reports, and enhancement requests. A project enters Maintenance mode by decision of its PGB or by declaration of the Open Projects Administrator when a PGB becomes inactive. Labelling a project as being in Maintenance mode lets the community know that active development is, for the moment, on hold. The project can return to Active mode at any time.
-* **Completed:** If the goals of the project are accomplished, discontinued, or superseded, if the PGB expects no further development to be undertaken, and/or if there is no Maintainer, the project can be declared *Completed* within the OASIS Open Project program and the PGB will be closed. This determination can be made by the PGB or by the OASIS Open Projects Administrator if the PGB is inactive. All assets of the project will remain open and accessible.
-
-
-## 5.  Tools and Resources 
+## 4.  Tools and Resources 
 
 OASIS provides development and collaboration tools for each Open Project, including support for integrated issue management, project boards, version control, release management, and associated Wiki pages.  Additionally, OASIS will support publicly archived email discussion lists and coordination with maintainers of any custom web sites or community portal web sites associated with an Open Project.
 
-### 5.1 Issue Tracking
+### 4.1 Issue Tracking
 
 Initially, each Open Project has at least one issue tracking facility, configured to support the work of Contributors, Participants, PGB Members, Maintainer Teams, and TSC Members, as appropriate to their roles.  Issue tracking will be integrated with GitHub version control and (optional) project boards.  The PGB may request the creation of additional issue tracking instances and associated project boards on a per-repository basis. 
 
-### 5.2 Version Control 
+### 4.2 Version Control 
 
 Project related code development, version control, and release management will be supported using Git, as managed by GitHub.  A PGB may request as many GitHub repositories as may be needed, each with its own Maintainer team(s), repository configurations, and workflow models.
 
-### 5.3 Wiki Pages 
+### 4.3 Wiki Pages 
 
 Each Open Project, as specified by the PGB, may use GitHub Wiki instances (one per GitHub repository). A Wiki may be configured to allow page edits only by Maintainers, or to allow for page edits by any Participants.
 
-### 5.4 Mailing Lists 
+### 4.4 Mailing Lists 
 
 At startup, each Open Project is configured to have a general email discussion list.  The PGB may request creation of additional mailing lists, as needed.  Mailing lists are publicly archived and are open to subscription by anyone.  Private discussions, if needed, may be requested for use by GitHub teams, but Open Projects are expected to conduct business in public view.
 
-### 5.5 Custom Web Sites 
+### 4.5 Custom Web Sites 
 OASIS also provides each project with the option to create a custom landing page and supporting web pages that can provide a more compelling front-end for socializing the project.
 
-### 5.6 Community Portal Sites 
+### 4.6 Community Portal Sites 
 Some Open Projects may be associated with community portal web sites that are not hosted or maintained by OASIS. Community portals are typically set up prior to the formation of an Open Project and may contain valuable legacy data. If community portals are maintained, they are subject to the [OASIS Trademark Policy](https://www.oasis-open.org/policies-guidelines/trademark).
 
-### 5.7 Social Media Channels 
+### 4.7 Social Media Channels 
 
 Each Open Project is encouraged to set up its own LinkedIn Group, Twitter account, Facebook page, and/or other communication channel for connecting with the community. OASIS staff are available to help as needed.
 
-### 5.8 Additional Online Resources
+### 4.8 Additional Online Resources
 
 Subject to resourcing and policy constraints, OASIS is committed to providing additional resources for Open Projects that may be needed in the future, beyond the tools, services, and platforms identified above.
 
-## 6. Leadership Roles 
+## 5. Leadership Roles 
 Each project operates under the governance of the [OASIS Open Project Rules][rules] and the active management of its Project Governing Board and assigned Maintainer(s). 
 
 * **Project Governing Board** (PGB): Members of the PGB set the overall goals and technical agenda for the project, select the Chair or Co-Chairs, select the project’s Maintainer(s), and vote on releases, and decide if/when to submit work for standards approval. 
@@ -243,7 +232,7 @@ Maintainers see to it that the technical consensus of the PGB and the community 
 
 *For more information, see [Section 2.1 Participation Roles](#2-1-participation-roles).*
 
-## 7. Project Governance: Decisions and Meetings 
+## 6. Project Governance: Decisions and Meetings 
 
 To ensure a vibrant, committed community, decisions about the work of the project can be and should be made via discussion and consensus between engaged members of the project community. Giving people a voice is an effective way to encourage involvement.
 
@@ -253,7 +242,7 @@ If and when the PGB chooses to hold meetings, they must be announced by the Chai
 
 Votes may be taken either by voice or by electronic means. When electronic ballots are specifically required, they must be conducted on facilities provided or approved by OASIS. Electronic ballots must always be run for at least seven days, although the Chair(s) may specify a longer voting period. Voters must always be able to change their vote up until the ballot closes.
 
-## 8. Progression of Work 
+## 7. Progression of Work 
 
 Once work in an Open Project is underway, decisions about the progress are left in the hands of the community participants and in particular the PGB and/or the TSC (if one is formed). Pull requests, builds, assembly of releases, etc. can be handled as the PGB or TSC sees fit. 
 
@@ -269,7 +258,7 @@ Once approved and published, the Administrator will broadly announce a 60-day pu
 
 An approved *OASIS Standard* is available for submission to other standards organizations for their consideration. The requirements and steps involved are explained in the [Policy for submitting OASIS work to other organizations](https://www.oasis-open.org/policies-guidelines/liaison#submitwork) section of the OASIS Liaison Policy.
 
-## 9.  Naming, Branding, and Trademarks 
+## 8.  Naming, Branding, and Trademarks 
 
 When setting up a project, its name is obviously an important issue to consider. A distinctive name becomes the project’s identity, helping interested parties find it and helping to give others confidence in using it. It is worth the proposers’ time to choose a unique, expressive name. 
 
@@ -277,23 +266,23 @@ To ensure that the project and OASIS have complete freedom to use a name, tradem
 
 OASIS staff will review and approve a project’s name before its official launch. 
 
-## 10.  CLAs and Open Source Licenses 
+## 9.  CLAs and Open Source Licenses 
 
 Contributor License Agreements (CLAs) [bind][cla] Open Project contributors to well-understood licenses, ensuring that the contributed technology is available and implementable under clear legal terms. OASIS Open Project CLAs feature a special Specification Non-Assertion Covenant that assures work produced can be advanced to Project Specification or OASIS Standard status without patent issues or ambiguities.
 
 Participants do not need to sign CLAs in order to review and comment on technical work, file bug reports, and make other non-substantive change requests to Open Project work products.
 
-### 10.1 Individual Contributor License Agreement (I-CLA) 
+### 9.1 Individual Contributor License Agreement (I-CLA) 
 
 People who wish to make substantive contributions to OASIS Open Projects are required to complete and submit an [Individual Contributor License Agreement (I-CLA)][icla].  This agreement clarifies the terms that apply to the  intellectual property contributions made by the individual.  A person involved in multiple OASIS Open Projects is covered under one I-CLA. 
 
-### 10.2 Entity Contributor License Agreement (E-CLA) 
+### 9.2 Entity Contributor License Agreement (E-CLA) 
 
 If a person’s contributions represent intellectual property owned by a company, organization, or other corporate entity (i.e., contributions made as a designated employee or representative of the entity), then the corporate entity should also complete and submit an [Entity Contributor License Agreement (E-CLA)][ecla].  
 
 E-CLAs must be signed by all organizations with representatives on Project Governing Boards.
 
-### 10.3 Open Project Licenses 
+### 9.3 Open Project Licenses 
 
 Each OASIS Open Project Repository is governed by the open source license selected by the Project Governing Board when the repository is created. Several popular open source licenses are currently supported: 
 
@@ -307,7 +296,7 @@ Each OASIS Open Project Repository is governed by the open source license select
 
 Upon request, OASIS will evaluate other widely-used, free, and open source licenses for potential inclusion in the list of supported licenses. 
 
-## 11. More Information
+## 10. More Information
 
 See:
 
@@ -324,4 +313,3 @@ Contact the [OASIS Open Projects Administrator](#leadership-roles) for assistanc
 [cla]:  ../policy/clas-and-special-covenant.md
 [icla]: ../templates/individual-cla.md
 [ecla]: ../templates/entity-cla.md
-
