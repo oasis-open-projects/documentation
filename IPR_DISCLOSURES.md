@@ -1,5 +1,8 @@
 ```
-This is a draft proposal for an IPR page that would be included for any open project. The top shows the page as it would appear for most projects that have no disclosures. The bottom shows what it would look like with disclosures included. Both include the call for disclosures documented in the Open Project rules.
+This is a draft proposal for an IPR page that would be included for any open project. 
+The top shows the page as it would appear for most projects that have no disclosures. 
+The bottom shows what it would look like with disclosures included. Both include the 
+call for disclosures documented in the Open Project rules.
 ```
 
 ## IPR Disclosures
