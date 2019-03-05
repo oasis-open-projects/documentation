@@ -4,4 +4,4 @@ OASIS believes that all open source projects should adopt practices and procedur
 
 OASIS Open Projects must have a Project Governing Board and a Technical Steering Committee. This is the minimum governance we require to ensure that work products from your Open Project can advance to standards track activities, and to ensure that leadership opportunities exist for community members and project sponsors alike. Beyond that, projects are free to divide or delegate work, form sub-committees, or take action in whatever way works for them. 
 
-Regardless of the path you choose, be sure to document how your group works and how decisions are made in your GOVERNANCE.md file.    
+Regardless of the path you choose, be sure to document how your group works and how decisions are made in your GOVERNANCE.md file, so long as they do not violate the [OP rules](../board-docs/open-projects-rules.md).    
