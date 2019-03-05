@@ -22,5 +22,3 @@ Please note we have a [code of conduct](insert link to your COC), please follow 
 ## Git Workflow */describe your project's version control strategy or preferences*
 
 1. We prefer you submit PRs from your own fork of the project (etc..)
-
-
