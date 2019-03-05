@@ -1,4 +1,6 @@
-_This is a draft proposal for an IPR page that would be included for any open project. The top shows the page as it would appear for most projects that have no disclosures. The bottom shows what it would look like with disclosures included. Both include the call for disclosures documented in the Open Project rules._
+```
+This is a draft proposal for an IPR page that would be included for any open project. The top shows the page as it would appear for most projects that have no disclosures. The bottom shows what it would look like with disclosures included. Both include the call for disclosures documented in the Open Project rules.
+```
 
 ## IPR Disclosures
 
@@ -6,7 +8,7 @@ This OP operates under the license(s) declared for each repository.
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
 
-### Call for Patent Disclosure
+### *Call for Patent Disclosure*
 
 OASIS requests that any party contact the OASIS Open Project Administrator if it is aware of a claim of ownership of any patent claims that would necessarily be infringed by implementations of an OASIS Project Specification; and that any such claimant provide an indication of its willingness to grant a Specification Non-Assertion Covenant with respect to such patent claims, or otherwise to negotiate patent licenses free of charge with other parties on a non-discriminatory basis on reasonable terms and conditions.
 
@@ -47,7 +49,7 @@ Red Hat is unable to provide more specific information regarding the unpublished
 
 Should this patent application be issued as a patent, and be identified as essential to the compliant implementation of an OASIS Standards Final Deliverable produced by the VIRTIO TC, Red Hat will operate, as specified by the VIRTIO TC, under the Non-Assertion Mode TC Requirements described in section 10.3 of the OASIS IPR Policy (as of the date of this disclosure).
 
-### Call for Patent Disclosure
+### *Call for Patent Disclosure*
 
 OASIS requests that any party contact the OASIS Open Project Administrator if it is aware of a claim of ownership of any patent claims that would necessarily be infringed by implementations of an OASIS Project Specification; and that any such claimant provide an indication of its willingness to grant a Specification Non-Assertion Covenant with respect to such patent claims, or otherwise to negotiate patent licenses free of charge with other parties on a non-discriminatory basis on reasonable terms and conditions.
 
