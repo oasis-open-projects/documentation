@@ -19,22 +19,26 @@ OASIS may include such claims on its website, but disclaims any obligation to do
 
 This OP operates under the license(s) declared for each repository.
 
-__Statement regarding IPR, submitted by Red Hat, April 7, 2016__
+__*Statement regarding IPR, submitted by Red Hat, April 7, 2016*__
 
+```
 To: OASIS
 From: Michael S. Tsirkin, Red Hat
 Date: April 7, 2016
+```
 Red Hat has filed a United States patent application that might become essential to an OASIS Standards Final Deliverable.
 
 US Publication No. 20150188833, titled "Overhead management for virtual machines" is relevant to section "Networking Device" of the Virtual I/O Device (VIRTIO) specification.
 
 Should this patent application be issued as a patent, and be identified as essential to the compliant implementation of an OASIS Standards Final Deliverable produced by the VIRTIO TC, Red Hat will operate, as specified by the VIRTIO TC, under the Non-Assertion Mode TC Requirements described in section 10.3 of the OASIS IPR Policy (as of the date of this disclosure).
 
-__Statement regarding IPR, submitted by Red Hat, April 7, 2016__
+__*Statement regarding IPR, submitted by Red Hat, April 7, 2016*__
 
+```
 To: OASIS
 From: Michael S. Tsirkin, Red Hat
 Date: April 7, 2016
+```
 Red Hat has filed a United States patent application that may contain essential claims or claims that might become essential to an OASIS Standards Final Deliverable.
 
 The unpublished application titled "Virtual Device Backend Recovery" is relevant to section "Basic Facilities of a Virtio Device" of the Virtual I/O Device (VIRTIO) specification.
