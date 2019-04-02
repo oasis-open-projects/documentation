@@ -4,7 +4,7 @@ Each repository in an OASIS Open Project must have a declared license, selected 
 
 The project's PGB is responsible for selecting a license for each project repository from the following list of approved licenses:
 
-(a) Implementer-Class Licenses: [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0);[Eclipse Public License v1.0](https://www.eclipse.org/legal/epl-v10.html); [Eclipse Public License 2.0](https://www.eclipse.org/legal/epl-2.0/); [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause); [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/legalcode); [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode); [MIT License](https://opensource.org/licenses/MIT).
+(a) Implementer-Class Licenses: [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0); [Eclipse Public License v1.0](https://www.eclipse.org/legal/epl-v10.html); [Eclipse Public License 2.0](https://www.eclipse.org/legal/epl-2.0/); [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause); [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/legalcode); [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode); [MIT License](https://opensource.org/licenses/MIT).
 
 (b) Other available licenses: None.
 
