@@ -11,7 +11,7 @@ For information on any statements regarding IPR claims related to the work of th
 
 ## License Text
 
->Directions: include the FULL text of the project's license. Apache-2 is shown below as an example. See [policy/licenses.md](./policy/licenses.md) for available licenses.
+>Directions: include the FULL text of the project's license. Apache-2 is shown below as an example. See [policy/licenses.md](../policy/licenses.md) for available licenses.
 
 Apache License
 Version 2.0, January 2004
