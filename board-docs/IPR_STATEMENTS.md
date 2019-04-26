@@ -4,13 +4,13 @@ This page lists any statements OASIS has received regarding IPR related to the w
 Open Project. OASIS invites any persons who know of such claims to disclose these if they 
 may be essential to the implementation of a project's work product. 
 
-## <a label="odf-advocacy"></a>ODF Advocacy Open Project
+## ODF Advocacy Open Project
 
 https://github.com/ODF-Advocacy/odf-advocacy
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
 
-## <a label="oslc"></a>Open Services for Lifecycle Collaboration (OSLC) Open Project
+## Open Services for Lifecycle Collaboration (OSLC) Open Project
 
 https://github.com/oslc-op/OSLC-admin
 
