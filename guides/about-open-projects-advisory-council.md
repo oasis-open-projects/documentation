@@ -15,6 +15,23 @@ The OASIS Open Projects program was designed to provide an operational model for
 * Include a diverse range of perspectives on the council from people of different race, gender, age, background, industry, and geographic location. 
 * Foster open, inclusive community discussions on issues and the future of open practices. 
 
+## Current Advisory Council Members
+
+This list of current advisory council members is also maintained on our [website](https://oasis-open-projects.org/advisory-council/). 
+
+* Kris Borchers (Sr. Program Manager, Azure PIE Open Engineering, Microsoft)
+* Amanda Brock (Director of Open UK, Trustable CEO)
+* Deborah Bryant (Senior Director, Open Source Program Office, Office of the CTO)
+* Chris Ferris (CTO Open Tech for IBM, Hyperledger TSC member)
+* Georg Grutter (Chief Expert, Bosch)
+* Jim Jagielski (Open Source Chef for ConsenSys, co-founder of The Apache Software Foundation)
+* Tobie Langel (Principal of UnlockOpen, AMP Advisory Committee Facilitator)
+* Heather Meeker (Open Source Licensing Specialist, OSS Capital)
+* Tracy Miranda (Director of OS Community, CloudBees)
+* Nithya Ruff (Senior Director, open source program office, Comcast)
+* Josh Simmons (Sr. Open Source Strategist for Salesforce, OSI Board Director)
+* Nigel Simpson (Technologist, futurist, innovator, startup mentor)
+
 
 ## Advisory Council FAQ
 
