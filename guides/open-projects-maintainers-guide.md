@@ -20,10 +20,6 @@ Among other duties:
 
 * Maintainers should also take care to ensure that Git/GitHub methods and workflows used to merge pull requests, resolve merge conflicts, and manage branches do not delete data or obscure revision metadata (e.g., "git rebase", "git push --force", "git reset"), since all data and revision history metadata are a vital part of the public record of contributors' actions over time.
 
-## Additional References for the Maintainer Role
-
-* [FAQ document](https://www.oasis-open.org/resources/open-repositories/faq#maintenance)
-* [Rules document](../board-docs/open-projects-rules.md)
 
 ## Contact
 
