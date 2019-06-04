@@ -27,4 +27,4 @@ Among other duties:
 
 ## Contact
 
-Please send any feedback or questions to TC Open Repository Administration at repository-admin@oasis-open.org.
+Please send any feedback or questions to Open Repository Administration at open-projects-admin@oasis-open.org.
