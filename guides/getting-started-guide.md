@@ -91,7 +91,7 @@ The ***Technical Steering Committee (TSC)*** is chartered by the PGB to direct t
 
 As you prepare to launch your Open Project, it is important to identify the people who will be filling these important roles and help them understand and accept their responsibilities. Projects may chose to adjust these roles or add new ones, but the structure outlined in this section describes the  minimum governance model required of all Open Projects. 
 
-Increasingly, it is considered a best practice to include a GOVERNANCE.md document on your project repositories that describes the leadership roles and decision-making process your project uses. This helps newcomers understand how decisions are made, who they can talk to for additional information, and how they can possibly get even more involved in project maintainence. This document is recommended, but not required, and you can use our [GOVERNANCE.md template](../templates/governance_md-template.md) to get started.
+Open Projects must create and publish documentation outlining the requirements for joining and decision-making in the project's TSC. Increasingly, it is considered a best practice to include a GOVERNANCE.md document on your project repositories that describes the leadership roles and decision-making process your project uses. This helps newcomers understand how decisions are made, who they can talk to for additional information, and how they can possibly get even more involved in project maintainence. You can use our [GOVERNANCE.md template](../templates/governance_md-template.md) to get started, or publish this information on your project README, as long as it is clearly marked and accessible to the public.
 
 ### Selecting Collaboration Tools
 
