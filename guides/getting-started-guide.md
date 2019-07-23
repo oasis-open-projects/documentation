@@ -115,7 +115,7 @@ OASIS will announce the project via press release, and issue an invitation to pa
 
 [template]: ../templates/open-project-draft-charter.md
 [licenses]: ../policy/licenses.md
-[guides]: ./guides
+[guides]: ../guides
 [cla]:  ../policy/clas-and-special-covenant.md
 [icla]: ../templates/individual-cla.md
 [ecla]: ../templates/entity-cla.md
