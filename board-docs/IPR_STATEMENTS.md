@@ -1,4 +1,4 @@
-#Notice: this page has been deprecated. Any IPR disclosures recieved can now be found in the administrative repository at https://github.com/oasis-open-projects/administration/blob/master/IPR_STATEMENTS.md
+__Notice: this page has been deprecated. Any IPR disclosures recieved can now be found in the administrative repository at https://github.com/oasis-open-projects/administration/blob/master/IPR_STATEMENTS.md__
 
 # Open Project IPR Statements
 
