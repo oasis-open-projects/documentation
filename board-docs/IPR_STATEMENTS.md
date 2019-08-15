@@ -1,3 +1,5 @@
+#Notice: this page has been deprecated. Any IPR disclosures recieved can now be found in the administrative repository at https://github.com/oasis-open-projects/administration/blob/master/IPR_STATEMENTS.md
+
 # Open Project IPR Statements
 
 This page lists any statements OASIS has received regarding IPR related to the work of any 
