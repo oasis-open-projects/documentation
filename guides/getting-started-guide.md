@@ -24,11 +24,11 @@ Becoming an OASIS Open Project involves just a few, but important steps:
 
 If you have a question or need help at any step in the process, please don't hesitate to contact OASIS. We're here to help you navigate the oftentimes complex world of IPR, organizational design, and community development in order to set your project up success. Let's get started!
 
-### Draft A Charter
+### Drafting A Charter
 
 The first step to starting your Open Project is to draft a charter, which describes the goals and scope of your Project and provides relevant information for attracting broader participation and feedback. Drafting the charter and collaborating on it with your peers helps focus your attention on what is most impactful and important to the project, and helps everyone stay on the same page throughout the process.
 
-Begin by reviewing the [Open Project Charter Template][template]. We recommend openly collaborating on the charter with others via shared editing tools like Google Docs or via an issue on GitHub. If you need help setting this up, let us know. 
+Begin by reviewing the [Open Project Charter Template](https://github.com/oasis-open-projects/documentation/blob/master/templates/draft-charter.md). We recommend openly collaborating on the charter with others via shared editing tools like Google Docs or via an issue on GitHub. If you need help setting this up, let us know. 
 
 The template requires eight sections of content:
 
