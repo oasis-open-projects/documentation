@@ -20,7 +20,8 @@ Use of the OASIS OPEN PROJECTS header is recommended (but not required) for all 
 
 Project web pages should include a footer with this notice:
 
-​© <YEAR> <PROJECT NAME> is an [OASIS Open Project](https://oasis-open-projects.org/). All Rights Reserved. OASIS [trademark](https://www.oasis-open.org/policies-guidelines/trademark), [IPR](https://www.oasis-open.org/policies-guidelines/ipr), [Privacy](https://www.oasis-open.org/policies-guidelines/privacy), and other [policies](https://www.oasis-open.org/policies-guidelines) apply. [Contact OASIS](mailto:communications@oasis-open.org) for details.
+​© <YEAR> OASIS Open.
+<PROJECT NAME> is an [OASIS Open Project](https://oasis-open-projects.org/). All Rights Reserved. OASIS [trademark](https://www.oasis-open.org/policies-guidelines/trademark), [IPR](https://www.oasis-open.org/policies-guidelines/ipr), [privacy](https://www.oasis-open.org/policies-guidelines/privacy), and other [policies](https://www.oasis-open.org/policies-guidelines) apply. [Contact OASIS](mailto:communications@oasis-open.org) for details.
 
 The footer also may include the OASIS Open Projects logo. 
 
