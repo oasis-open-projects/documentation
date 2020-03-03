@@ -188,7 +188,7 @@ Some contributed material may be treated as superseded or deprecated by Maintain
 
 (a) Implementer-Class Licenses: [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0);[Eclipse Public License v1.0](https://www.eclipse.org/legal/epl-v10.html); [Eclipse Public License 2.0](https://www.eclipse.org/legal/epl-2.0/); [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause); [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/legalcode); [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode); [MIT License](https://opensource.org/licenses/MIT).
 
-(b) Other available licenses: None.
+(b) Other available licenses: [CC-0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
 Other widely-used free and open source licenses may be added to this list after review and acceptance by OASIS and amendment of these rules.
 
@@ -355,5 +355,6 @@ You may submit this CLA request by clicking the "Accept" button below. You shoul
 Dates
 **Approved:** Tue, 2018-05-22
 **Effective:** Tue, 2018-05-22
+**Amended:** Tue, 2020-02-18 (add license)
 
 [terms]: ./OASIS-defined-terms.md
