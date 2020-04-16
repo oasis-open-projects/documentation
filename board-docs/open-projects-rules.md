@@ -2,17 +2,17 @@
 
 # Open Project Rules
 
-This version of the OASIS Open Project (OP) Rules was approved by the OASIS Board of Directors on 26 February 2019 and became effective 1 March 2019.
+_This version of the OASIS Open Project (OP) Rules was approved by the OASIS Board of Directors on 06 March 2020 and became effective immediately. The change was announced to OASIS members on 10 March 2020 in https://lists.oasis-open.org/archives/members/202003/msg00001.html._
 
 ## Table of Contents
 
 1. [Purpose of Open Projects](#1-purpose-of-open-projects)
 1. [Project Formation](#2-project-formation)
 1. [Roles of Parties in the Project](#3-roles-of-parties-in-the-project)
-1. [Participants and Contributors](#4-participants-and-contributors)
+1. [Contributors](#4-contributors)
 1. [Project Governing Board and Project Sponsors](#5-project-governing-board-and-project-sponsors)
 1. [Technical Steering Committees](#6-technical-steering-committees)
-1. [Project Chairs and Maintainers](#7-project-chairs-and-maintainers)
+1. [Project Chairs, Maintainers and Technical Steering Committees](#7-project-chairs-and-maintainers)
 1. [Repositories and Project Tools](#8-repositories-and-project-tools)
 1. [Visibility and Archival Permanence](#9-visibility-and-archival-permanence)
 1. [Project Governance: Decisions and Meetings](#10-project-governance-decisions-and-meetings)
@@ -23,10 +23,8 @@ This version of the OASIS Open Project (OP) Rules was approved by the OASIS Boar
 1. [Repository and Specification Licenses](#15-repository-and-specification-licenses)
 1. [Trademarks](#16-trademarks)
 1. [CLAs and License Notices](#17-clas-and-license-notices)
-1. [Appeals and Application of Rules](#18-appeals-and-application-of-rules)
-
-[Appendix A-1: Individual CLA](#appendix-a-1-individual-cla)
-
+1. [Appeals and Application of Rules](#18-appeals-and-application-of-rules)  
+[Appendix A-1: Individual CLA](#appendix-a-1-individual-cla)  
 [Appendix A-2: Entity CLA](#appendix-a-2-entity-cla)
 
 ## 1. Purpose of Open Projects
@@ -48,21 +46,21 @@ The Charter must include a brief statement of purpose for the Project. However, 
 
 The work of a Project and its administration are conducted by parties who voluntarily contribute in one or more of the following defined roles: [Contributor](https://www.oasis-open.org/policies-guidelines/open-projects-process#participants-contributors-contributor), [Maintainer](https://www.oasis-open.org/policies-guidelines/open-projects-process#chairs-maintainers-technical-steering-committees-opMaintainers), [Project Governing Board](https://www.oasis-open.org/policies-guidelines/open-projects-process#project-governing-board-and-sponsors-composition) (PGB), [Technical Steering Committee](https://www.oasis-open.org/policies-guidelines/open-projects-process#chairs-maintainers-technical-steering-committees-opTSCs) (TSC), and [Chair](https://www.oasis-open.org/policies-guidelines/open-projects-process#chairs-maintainers-technical-steering-committees-opChairs). A detailed and definitive description of those roles follows in Sections [4](#4-participants-and-contributors), [5](#5-project-governing-board-and-project-sponsors) and [7](#7-project-chairs-and-maintainers) below. A table summarizing those roles can be found in the [OASIS Committee Operations Process](https://www.oasis-open.org/policies-guidelines/oasis-committee-operations-process-2018-05-22#OpMembership).
 
-## 4. Participants and Contributors
+## 4. Contributors
 
 **4.1** Any person (whether or not an [OASIS member][terms] may participate in a Project as a **Contributor** by providing comments or bug reports to a Project Repository, subject to the licensing rules in Sections [14](#14-oasis-standard-approval-and-external-submissions), [15](#15-repository-and-specification-licenses) and [16](#16-trademarks) below. 
 
-**4.2** Any person (whether or not an OASIS member) may agree to a Contributor License Agreement (CLA), as provided in the licensing rules below, as a prerequisite for acceptance of their pull requests or other substantive contributions. The Project Governing Board and Maintainers shall only act on pull requests or other substantive contributions made by project Contributors who are listed in the OASIS system as having agreed to the CLA. The Project shall maintain a record of all Contributors who have made contributions to a Project.
+**4.2** Any person (whether or not an OASIS member) may agree to a Contributor License Agreement (CLA), as provided in the licensing rules below, as a prerequisite for acceptance of their pull requests or other substantive contributions. If a person who signs and submits an individual CLA indicates that they represent an entity, then that individual CLA will only be deemed effective if that entity has signed and submitted an entity CLA. The Project Governing Board and Maintainers shall only act on pull requests or other substantive contributions made by project Contributors who are listed in the OASIS system as having agreed to the relevant CLA. The Project shall maintain a record of all Contributors who have made contributions to a Project.
 
 ## 5. Project Governing Board and Project Sponsors
 
-**5.1** Overall guidance for the Project is provided by its [*Project Governing Board*][terms] (or ***PGB***). The PGB is composed of one voting member from each Project Sponsor and at least one voting at-large expert representatives from the community of contributors, elected or appointed by the Technical Steering Committee (TSC). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB. 
+**5.1** Overall guidance for the Project is provided by its [*Project Governing Board*][terms] (or ***PGB***). The PGB is composed of one voting member from each Project Sponsor who elects to appoint a PGB member, and at least one voting at-large expert representatives from the community of contributors, elected or appointed by the Technical Steering Committee (TSC). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB. 
 
 A list of PGB members shall be maintained and posted at the general information web page designated by OASIS for the Project. Certain actions taken by the PGB require affirmative action by Project Approval Minimum Membership, as defined below.
 
 **5.2** PGB members must:
 
-(a) have signed and submitted an entity CLA [as an entity](https://www.oasis-open.org/policies-guidelines/open-projects-process#entity-cla-exhibit) or, in the case of an unaffiliated individual, an individual CLA; and
+(a) have signed and submitted an individual CLA, and if appointed by an entity, that entity must have signed and submitted an entity CLA naming that project; and
 (b) either (i) represent an organization that has paid the appropriate Backer dues for that Open Project or (ii) has been appointed or elected as an expert representative as provided above.
 
 **5.3** [*Project Approval Minimum Membership*][terms], where it explicitly is required for the PGB's approval of an action under these rules, means at least two Project Sponsors.
@@ -81,7 +79,7 @@ Decisions by the PGB shall be made in a manner consistent with the requirements 
 
 ## 6. Technical Steering Committees
 
-The PGB shall form a ***Technical Steering Committee*** (or ***TSC***) by a resolution of the PGB. A Project's TSC members shall be composed of the persons, selected in the manner, and chaired by such person as is provided by that resolution. The PGB must create and publish process documentation, outlining the requirements for joining and voting in the project's TSC. The TSC shall have the duties to advise the PGB and such others as are specified by the PGB, so long as consistent with these Rules and OASIS policies. The following activities may not be delegated by the PGB, although it may consult with the TSC regarding them at the PGB's option: election or termination of PGB Chairs, approval of any *Releases, Group Releases, Project Specification Drafts, Project Specifications*, and approval of *Candidate OASIS Standards* or external submissions. TSC members must have agreed to the Contributor License Agreement (CLA) as recorded by OASIS . A list of TSC members shall be maintained and posted at the general information web page designated by OASIS for the Project. An individual may resign from TSC membership at any time, by notifying the Open Project Administrator and the Chair(s) in writing.
+The PGB shall form a ***Technical Steering Committee*** (or ***TSC***) by a resolution of the PGB. A Project's TSC members shall be composed of the persons, selected in the manner, and chaired by such person as is provided by that resolution. The PGB must create and publish process documentation, outlining the requirements for joining and voting in the project's TSC. The TSC shall have the duties to advise the PGB and such others as are specified by the PGB, so long as consistent with these Rules and OASIS policies. The following activities may not be delegated by the PGB, although it may consult with the TSC regarding them at the PGB's option: election or termination of PGB Chairs, approval of any *Releases, Group Releases, Project Specification Drafts, Project Specifications*, and approval of *Candidate OASIS Standards* or external submissions. TSC members must have signed and submitted an individual CLA, and if appointed by an entity, that entity must have signed and submitted an entity CLA. A list of TSC members shall be maintained and posted at the general information web page designated by OASIS for the Project. An individual may resign from TSC membership at any time, by notifying the Open Project Administrator and the Chair(s) in writing.
 
 
 ## 7. Project Chairs and Maintainers
@@ -142,9 +140,9 @@ Some contributed material may be treated as superseded or deprecated by Maintain
 
 ## 12. Releases and Group Releases
 
-**12.1** *Releases*. The PGB may act to approve a Designated Branch as an official [**Release**][terms] of the Project, after giving written notice to all Contributors via the Project Tools at least fourteen days prior to taking that action (by initiating a PGB vote or consensus call). Such approval decisions are subject to the process, notice and transparency provisions of these rules. Any product of the Project that is composed from contributions to the Project Repositories, of any nature, is eligible for approval as a Release of the Project.
+**12.1** *Releases*. The PGB may act to approve a Designated Branch as an official [**Release**][terms] of the Project, after giving notice to all Contributors via the Project Tools at least fourteen days prior to initiating a PGB vote or consensus call. Such approval decisions are subject to the process, notice and transparency provisions of these rules. Any product of the Project that is composed from contributions to the Project Repositories, of any nature, is eligible for approval as a Release of the Project.
 
-**12.2** *Group Releases*. When desirable to aggregate outputs, the PGB may act to approve any set of the Project's Releases or subsets of Releases as an official ***Group Release*** of the Project, after giving written notice to all Contributors via the Project Tools at least fourteen days prior to taking that action (by initiating a PGB vote or consensus call). Such approval decisions are subject to the process, notice and transparency provisions of these rules. Group Releases may include multiple Releases that bear different Applicable Licenses. Aggregate contributions by Maintainers or others which are prepared as potential Project Specifications should instead be approved as Project Specification Drafts, as provided below.
+**12.2** *Group Releases*. When desirable to aggregate outputs, the PGB may act to approve any set of the Project's Releases or subsets of Releases as an official ***Group Release*** of the Project, after giving notice to all Contributors via the Project Tools at least fourteen days prior to initiating a PGB vote or consensus call. Such approval decisions are subject to the process, notice and transparency provisions of these rules. Group Releases may include multiple Releases that bear different Applicable Licenses. Aggregate contributions by Maintainers or others which are prepared as potential Project Specifications should instead be approved as Project Specification Drafts, as provided below.
 
 **12.3** *Licensing*. Releases and Group Releases bear only the license rights and covenants provided for each of the contributions included there, as evidenced by the relevant repositories' Applicable License(s) and the CLAs.
 
@@ -154,7 +152,7 @@ Some contributed material may be treated as superseded or deprecated by Maintain
 
 **13.2** In order to be advanced through the approval process, a proposed Project Specification must conform to the Project Specification template provided by the [Open Project Administrator][terms], which includes methods for indicating the relevant Designated Branches and Applicable Licenses. Proposed Project Specification Drafts also should conform to that template, to the extent possible.
 
-**13.3** *Project Specification Drafts*. A PGB having at least Project Approval Minimum Membership may act to approve any set of contributions to the Project, including from its Releases or Group Releases, as an official Project Specification Draft, after giving written notice to all Contributors via the Project Tools at least fourteen days prior to taking that action (by initiating a PGB vote or consensus call). Such approval decisions are subject to the process, notice and transparency provisions of these rules.
+**13.3** *Project Specification Drafts*. A PGB having at least Project Approval Minimum Membership may act to approve any set of contributions to the Project, including from its Releases or Group Releases, as an official Project Specification Draft, after giving notice to all Contributors via the Project Tools at least fourteen days prior to initiating a PGB vote or consensus call. Such approval decisions are subject to the process, notice and transparency provisions of these rules.
 
 **13.4** *Project Specifications*. A PGB having at least Project Approval Minimum Membership may act to approve any Project Specification Draft as a Project Specification, by satisfying each of the following requirements:
 
@@ -182,7 +180,7 @@ Some contributed material may be treated as superseded or deprecated by Maintain
 
 ## 15. Repository and Specification Licenses
 
-**15.1** *Applicable Licenses*. Each Project Repository will be subject to a declared ***Applicable License***, selected from the list of licenses in this section. The Applicable License for a repository will apply to all contributions donated to the repository by posting it or requesting its inclusion in that repository, and to all Releases issued from that repository. Project Contributors may contribute to a Project Repository on the terms of the Applicable License for that repository. Anyone, whether an OASIS member or Contributor or Participant or not, may offer comments to any Project Repository, on the terms of the Applicable License, as evidenced in the manner noted below. Anyone will be entitled to make use of the contents of a Project Repository, according to the terms of its Applicable License.
+**15.1** *Applicable Licenses; Copyright Implementation Licenses*. Each Project Repository will be subject to a declared ***Applicable License***, selected from the list of licenses in this section. Each Contributor agrees in the CLA to grant the Applicable License designated for a repository to all contributions donated to that repository by posting it or requesting its inclusion in that repository, and to all Releases issued from that repository. Anyone may offer comments to any Project Repository, on the terms of the foregoing licenses, as evidenced in the manner noted below. Anyone will be entitled to make use of the contents of a Project Repository, according to the terms of its Applicable License.
 
 **15.2** When requesting the creation of a Project Repository, the PGB must select that repository's Applicable License from among the following list:
 
@@ -192,9 +190,9 @@ Some contributed material may be treated as superseded or deprecated by Maintain
 
 Other widely-used free and open source licenses may be added to this list after review and acceptance by OASIS and amendment of these rules.
 
-**15.3** *Special Covenant for Project Specifications*. In addition to the Applicable License for each Project Repository, each Contributor also agrees in the CLA to provide the additional covenants in this [Section 15.3](), as non-assertion covenants in favor of certain Project Specifications (collectively the ***Specification NonAssertion Covenant***):
+**15.3** *Special Covenants for Project Specifications*. In addition to the Applicable License for each Project Repository, each Contributor also agrees in the CLA to provide the additional covenants in this [Section 15.3](), as non-assertion covenants in favor of certain Project Specifications (collectively the ***Specification NonAssertion Covenant***):
 
-**Contributor Covenant for Contributions**. As a Contributor, you irrevocably covenant that you will not assert any patent claims licensable by you that are necessarily infringed by an implementation of your contribution to the extent that contribution is included in a Project Specification approved by the Open Project to which you made the contribution, against OASIS or any other parties who the Applicable License benefits, for making, having made, using, marketing, importing, offering to sell, selling, and otherwise distributing works that Implement or Derive From your contribution.
+> **Contributor Covenant for Specifications**. As a Contributor, you irrevocably covenant that you will not assert any patent claims licensable by you that are necessarily infringed by an implementation of your contribution to the extent that contribution is included in a Project Specification approved by the Open Project to which you made the contribution, against OASIS or any other parties who the Applicable License benefits, for making, having made, using, marketing, importing, offering to sell, selling, and otherwise distributing works that Implement or Derive From your contribution.
 
 **PGB Covenant for Specifications**. For any Project Repository whose Applicable License is an Implementer-Class License, if you (or your representative) are a member of that Open Project's Governing Board, you irrevocably covenant that you will not assert any patent claims licensable by you that are necessarily infringed by an implementation of a Project Specification approved by that Open Project, and any Maintenance Deliverable approved for it, against OASIS or any other parties who the Applicable License benefits, for making, having made, using, marketing, importing, offering to sell, selling, and otherwise distributing works that Implement or Derive From that Project Specification and are compliant with all normative portions thereof. If you withdraw from the PGB, then this obligation continues to apply, but only with respect to those Project Specification Drafts approved more than 7 calendar days prior to your withdrawal, and to any Maintenance Deliverables approved for those specifications thereafter.
 
@@ -220,11 +218,11 @@ No person may use an OASIS trademark or service mark in connection with an Open 
 
 ## 17. CLAs and License Notices
 
-**17.1** A ***Contributor License Agreement*** (or **CLA**) shall bind each donor of a repository contribution, issue or comment of any kind to the repository's Applicable License. All Contributions to Project Repositories shall be subject to an Individual CLA, in the form of [Appendix A-1](#appendix-a-1-individual-cla) to these rules, by which all persons making those Contributions are bound. Where Contributions are made by or on behalf of an organization, that organization may provide an Entity CLA, in the form of [Appendix A-2](#appendix-a-2-individual-cla) to these rules. Project Sponsors must provide an Entity CLA, and the persons appointed by them as PGB members must provide an Individual CLA in order to serve. Members of OASIS who provide an Entity CLA must provide the signature (or assent) of their OASIS [Primary Representative][terms]. Individuals may also be required by the Individual CLA to obtain an Entity CLA for the organization they represent.
+**17.1** A ***Contributor License Agreement*** (or **CLA**) shall bind each donor of a repository contribution, issue or comment of any kind to the repository's Applicable License. All Contributions to Project Repositories shall be subject to an Individual CLA, in the form of [Appendix A-1](#appendix-a-1-individual-cla) to these rules, by which all persons making those Contributions are bound. Where Contributions are made by or on behalf of an organization, the responsible individual will designate that organization in their Individual CLA, and that organization will be asked to provide an Entity CLA, in the form of [Appendix A-2](#appendix-a-2-individual-cla) to these rules. If that Entity CLA is not obtained, OASIS and the Project must decline contributions from that individual. Project Sponsors who appoint a member to the PGB must provide an Entity CLA, and the persons appointed by them as PGB members must provide an Individual CLA in order to serve. Members of OASIS who provide an Entity CLA must provide the signature (or assent) of their OASIS [Primary Representative][terms]. Individuals who represent an organization also are required by the Individual CLA to obtain an Entity CLA for that organization.
 
 **17.2** While some nominal write-access privileges (such as adding issues and comments) may be granted automatically to the public by the Project Tools, only persons who have signed the CLA will be permitted to submit content other than comments or suggestions for [**Non-Material Changes**][terms].
 
-**17.3**. Each person making a Project Repository contribution must be bound to the terms of the CLA, by obtaining their signature (which may be an equivalent electronic assent) in a manner appropriate to the tools employed to implement that repository; and those signatures shall be recorded and maintained in an auditable manner.
+**17.3**. Each person making a Project Repository contribution must be bound to the terms of the Individual CLA, by obtaining their signature (which may be an equivalent electronic assent) in a manner appropriate to the tools employed to implement that repository; and those signatures shall be recorded and maintained in an auditable manner. Organizational Entity CLA signatures must also be obtained, recorded and maintained in a similar manner.
 
 **17.4**. Notices of the Applicable License applicable to each Project Repository shall be conspicuously visible both from each repository's contribution channels (for potential submitters of material) and its home resource pages (for potential readers and users).
 
@@ -238,7 +236,7 @@ No person may use an OASIS trademark or service mark in connection with an Open 
 
 The appeals process provided in [Section 3.2](https://www.oasis-open.org/policies-guidelines/tc-process-2017-05-26#appeals) of the OASIS TC Process also shall apply to the actions of the [OASIS Open Project Administrator][terms], which may be appealed as provided therein.
 
-Changes to these rules shall apply to previously-established Open Projects upon their adoption. However, OASIS may not change the terms of any signed CLA once it has been delivered to OASIS.
+Changes to these rules shall apply to previously-established Open Projects upon their adoption. However, OASIS may not change the terms of any signed CLA once it has been delivered to OASIS; if a change is required a new CLA must be executed.
 
 ===
 
