@@ -8,7 +8,7 @@ This guide is for projects that are moving into OASIS Open Projects from:
 1. an existing community open source effort, or
 1. a technical committee or working group open source effort.
 
-There are no subject-matter limitations at OASIS. Projects decide on the technical agenda they wish to pursue. OASIS supports efforts ranging from cybersecurity, cloud computing, IoT, cryptography, privacy, law, emergency management, augmented reality, static analysis, and many other areas of interest to our community. People involved in IT, telecommunications, healthcare, utilities, financial services, academia, government, and other industries all collaborate on work at OASIS.
+There are no subject-matter limitations at OASIS. Projects decide on the technical agenda they wish to pursue. OASIS supports efforts ranging from cybersecurity, blockchain, privacy, IoT, cryptography, cloud computing, law, emergency management, static analysis, and many other areas of interest to our community. People involved in IT, telecommunications, healthcare, utilities, financial services, academia, government, and other industries all collaborate on work at OASIS.
 
 ### High-level Overview
 
