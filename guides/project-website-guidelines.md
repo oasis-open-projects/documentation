@@ -42,7 +42,7 @@ The footer may be modified for projects that need to cite additional policies or
 
 ### Additional content
 
-Depending on your project’s needs and the size of your community, your primary website may include a variety of other content, e.g., announcements, events calendar, presentations, blogs, videos, social media links, testimonials, swag shop, etc.
+Depending on your project’s needs and the size of your community, your primary website may include a variety of other content, e.g., official project press releases, other announcements, events calendar, presentations, blogs, videos, social media links, testimonials, swag shop, etc.
 
 We encourage you to develop and maintain a style guide for your project to promote proper use of your project’s design assets and ensure it remains functional and informative.
 
