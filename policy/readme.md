@@ -27,6 +27,14 @@ Note that a company can be an Open Project Sponsor without electing to have a re
 </details>
 
 <details>
+<summary><b>What rights do you give up when you contribute code to an Open Project?</b></summary>
+When you make a contribution under an open source license, by definition you’re permitting others to add to, alter, and fork your contribution.  As in all FOSS projects, it’s a perpetual permission (contributions cannot be “taken back”), so the primary tool for convergence on specific code and builds is the consensus of your development community, and ultimately, your installed base. (There is one canonical Apache server codebase, not 20, because the Apache Foundation community designated it so, and implementers agreed.)        
+As a contributor of code, you only give a nonexclusive license to others. You retain all rights to use your own work in other open or proprietary purposes. All you “give up” is the right to sue someone else for infringement for using your contribution.
+
+Since OASIS Open Projects rules enable potential for submitting work into the open standards process, the usual FOSS licenses for your own contributions are joined by a second license commitment from all PGB members (the “Specification NonAssertion Covenant”) to support stable outputs with their patent rights if any.  But a PGB member may withdraw from the group (an “early exit”), which cuts off their duty to any future builds, so they retain the right to depart if the project heads in an unanticipated direction.  
+</details>
+
+<details>
 <summary><b>Does OASIS Open Projects handle compliance with US Export Administration Regulations?</b></summary>
 Standards organizations and most open-source foundations rely on each of their members to evaluate and confirm their own compliance with all applicable laws.  This includes export control and licensing issues that might apply under any relevant jurisdiction.  This is because every party's situation as a possible contributor or participant is different:  what may be permissible for one party may not be for another, depending on their other activities and their location.  
 
