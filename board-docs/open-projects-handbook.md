@@ -99,7 +99,7 @@ The abstract should be a high-level, concise (80 words or fewer) description of 
 
 *Purpose and Scope*
 
-This section should explain why the work is necessary. Identify the specific problems you want to address. Describe your proposed solution in a way that will be clear to someone only moderately versed in the subject. Bring as much foresight as you can to your scope but don’t let it constrain the work. You’ll be able to refine this text throughout the life your project.
+This section should explain why the work is necessary. Identify the specific problems you want to address. Describe your proposed solution in a way that will be clear to someone only moderately versed in the subject. Bring as much foresight as you can to your scope but don’t let it constrain the work. You’ll be able to refine this text throughout the life of your project.
 
 *Business Benefits*
 
