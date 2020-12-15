@@ -1,4 +1,4 @@
-<img src="../img/open-project-logos/open-projects-logo.PNG.png" width="300">
+<img src="../img/open-project-logos/OASIS-Primary-Logo-Full-Colour.png" width="300">
 
 # Draft Charter Template
 -------------------------------------------
