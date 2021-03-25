@@ -22,7 +22,7 @@ The PGB sets the strategic direction and monitors your project’s overall activ
 
 ### Tool 4 - Your Technical Steering Committee 
 
-The TSC is responsible translates the strategic direction into a practical roadmap of technical activities - triaging issues, managing releases, and responding to pull requests. In small projects, the PGB and the TSC may be one and the same. In larger projects, there may be multiple TSCs to address different areas of concern. Your Project Governing Board will have a lot of flexibility in setting up the TSC(s) to meet the needs of your project.
+The TSC is responsible for translating the strategic direction into a practical roadmap of technical activities - triaging issues, managing releases, and responding to pull requests. In small projects, the PGB and the TSC may be one and the same. In larger projects, there may be multiple TSCs to address different areas of concern. Your Project Governing Board will have a lot of flexibility in setting up the TSC(s) to meet the needs of your project.
 
 In establishing your TSC, start with defining good criteria for selecting members. Select TSC members who share a common view of your project’s scope. Populate the group with key experts whose views will carry weight with the PGB and community contributors. These technical leaders are a good proxy for how implementers will react, and they can help influence the direction of your early adopters. 
 
