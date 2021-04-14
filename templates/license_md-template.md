@@ -1,10 +1,10 @@
-*Note: this template is provided to show how your LICENSE.md file should be structured as a best practice. You should copy and edit it to reflect the project's license.*
+*Note: this template is provided to show how your LICENSE.md file will be structured. The OASIS Projects Administrator will be responsible for creating and maintaining this page.*
 
 # <PROJECT NAME> <REPO> LICENSE FILE
 
 >Directions: include this required text:
 ```
-This Open Project operates under the license below. 
+This Open Project operates under the license(s) below. 
 OASIS invites anyone who knows of any IPR claims to disclose them if they may be essential to the implementation of any of the work of this project so that notice of them may be posted. 
 For information on any statements regarding IPR claims related to the work of this project, see the [OASIS OP IPR Statements](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/IPR_STATEMENTS.md) page.
 ```
