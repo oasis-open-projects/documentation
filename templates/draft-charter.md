@@ -1,6 +1,6 @@
 <img src="../img/open-project-logos/OASIS-Primary-Logo-Full-Colour.png" width="300">
 
-# Draft Charter Template
+# Draft [open project name] Charter - [date]
 -------------------------------------------
 
 **INSTRUCTIONS FOR USE:** Ask the Open Projects Administrator to set up a page in our Draft Charters repository where you can publicly collaborate with others in the community. Alternatively, you may copy this template and complete your draft in private or in another public space.
