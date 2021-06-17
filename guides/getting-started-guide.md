@@ -16,11 +16,11 @@ Becoming an OASIS Open Project involves just a few, but important steps:
 1. [Selecting Collaboration Tools](#selecting-collaboration-tools)
 1. [Launching Your Project](#launching-your-project)
 
-If you have a question or need help at any step in the process, please don't hesitate to contact OASIS. We're here to help you navigate the oftentimes complex world of IPR, organizational design, and community development in order to set your project up success. Let's get started!
+If you have a question or need help at any step in the process, please don't hesitate to [contact OASIS](mailto:communications@oasis-open.org). We're here to help you navigate the complexities of IP, governance, and community development in order to set your project up for success. Let's get started!
 
 ### Drafting A Charter
 
-The first step to starting your Open Project is to draft a charter, which describes the goals and scope of your Project and provides relevant information for attracting broader participation and feedback. Drafting the charter and collaborating on it with your peers helps focus your attention on what is most impactful and important to the project, and helps everyone stay on the same page throughout the process.
+The first step to starting your Open Project is to draft a charter, which describes the goals and scope of your Project and provides relevant information for attracting broad participation and feedback. Drafting the charter and getting feedback from other stakeholders helps focus your attention on what is most impactful and important to the project and helps everyone stay on the same page throughout the process.
 
 Begin by reviewing the [Open Project Charter Template](https://github.com/oasis-open-projects/documentation/blob/master/templates/draft-charter.md). We recommend openly collaborating on the charter with others via shared editing tools like Google Docs or via an issue on GitHub. If you need help setting this up, let us know. 
 
@@ -37,37 +37,33 @@ The template requires eight sections of content:
 
 It’s a good idea to socialize your draft charter, solicit feedback, and build a core of support before the project is announced as an OASIS Open Project. Developers and organizations alike are attracted to projects that demonstrate momentum and commitment from a diverse community of partners and competitors, so spend as much time as you need to draft a clear, compelling charter. OASIS staff are happy to review and offer editorial suggestions at any point.
 
-The final version of your charter will need to be submitted in English, but feel free to work in whatever language is comfortable for your community to get started. OASIS can help with translations when you're ready to submit your final draft. 
+The final version of your charter will need to be submitted in English, but feel free to work in whatever language is comfortable for your community to get started. If needed, OASIS can help with translations when you're ready to submit your final draft. 
 
 ### Identifying Project Sponsors
 
-One of the advantages of starting your Open Project at OASIS is the opportunity recruit sponsors (and contributors) from our international community. Whether you start your project with a large, robust community or a few people, OASIS staff will work with you to recruit supporters before and after your project is launched.
+One of the advantages of starting your Open Project at OASIS is the opportunity recruit participants from our international community. Whether you start your project with a large, robust community or a few people, OASIS staff will work with you to attract supporters before and after your project is launched.
 
-Identifying organizations that will sponsor your project is an important step. Project sponsors pay Annual project sponsorship dues that cover the basic support services provided by OASIS. These dues vary based on the organization's size and level of investment in the project. Project Sponsors may appoint one organizational representative to serve on the Project Governing Board (PGB). 
+Identifying organizations that will sponsor your project is an important step. Sponsors pay [annual sponsorship dues](https://www.oasis-open.org/join/#membership-dues-op) that cover the basic support services provided by OASIS. These dues vary based on the organization's size and level of investment in the project. Each Sponsor organization has the option to appoint one representative to serve on the Project Governing Board (PGB). 
 
-Before your project can launch as an OASIS Open Project, it must meet a minimum threshold in annual sponsorship commitments. If you don’t have the minimum sponsorship for your project — or if you’d like to have more stakeholders on board before launch — OASIS staff can help find sponsors for your project from the OASIS member base and beyond.
+Before your project can launch as an OASIS Open Project, it must meet a minimum threshold in annual sponsorship commitments. [Contact OASIS](mailto:communications@oasis-open.org) for details on this. If you don’t have the minimum sponsorship for your project — or if you’d like to have more stakeholders on board before launch — OASIS staff can help find sponsors from the OASIS community and beyond.
 
-For each sponsoring organization, provide the name and email address of the representative who will serve on the PGB (the representative may change at any point). You'll also want to identify one person from your soon-to-be PGB who will serve as the primary point of contact for your project prior to launch (the PGB will elect new chairpersons after launch).
-
-You can also provide names, email addresses, and organizational affiliations (if any) for other people interested in contributing to the project. Support from people who are recognized as subject experts or who are affiliated with stakeholder organizations adds credibility to your project and encourages more participation.
-
-OASIS will use this information to kick off sponsorship conversations and purchasing processes with the appropriate organizational stakeholders to secure funding. This process can take time, so it's a good idea to connect with us early and often about potential project sponsors. 
+Your charter should describe the type of organizations that will benefit from sponsoring your project and the value of participation. Be as specific as you can, as this information will help prospective members secure internal approval for getting involved. 
 
 ### Selecting a License
 
 When you fill out your draft charter, you'll provide the names and descriptions for any initial repositories you expect to use for developing project assets and specify your current or preferred license for each repository. Each OASIS Open Project Repository is governed by the open source license selected by the Project Governing Board.
 
-Licenses offer different patent guarantees, reuse rights, and requirements that implementers will need to comply with. Not sure which license to choose? OASIS has decades of experience in IPR policy, and can offer assistance to help you determine what’s right for your project. You can see the current list of supported licenses [here][licenses].
+Licenses offer different patent guarantees, reuse rights, and requirements that implementers will need to comply with. Not sure which license to choose? OASIS has decades of experience in IPR policy and can offer assistance to help you determine what’s right for your project. You can see the current list of supported licenses [here][licenses].
 
 Contributor License Agreements (CLAs) [bind][cla] project contributors to the license, ensuring that the contribution is available and implementable under clear legal terms. OASIS Open Project CLAs feature a special Specification Non-Assertion Covenant that assures work produced can be advanced to Project Specification or OASIS Standard status without patent issues or ambiguities.
 
 Participants do not need to sign CLAs in order to review and comment on technical work, file bug reports, and make other non-substantive change requests to Open Project work products. People who wish to make substantive contributions to OASIS Open Projects are required to complete and submit an [Individual Contributor License Agreement (I-CLA)][icla]. If a person’s contributions represent intellectual property owned by a company, organization, or other corporate entity (i.e., contributions made as a designated employee or representative of the entity), then the corporate entity should also complete and submit an [Entity Contributor License Agreement (E-CLA)][ecla]. E-CLAs must be signed by all organizations with representatives on Project Governing Boards.
 
-Once your license(s) have been selected, OASIS staff will work with you to set up the CLA collection and auditing tool. 
+Once your license has been selected, OASIS staff will set up the CLA collection and auditing tool for your project. 
 
 ### Submitting Your Charter
 
-Let OASIS know via email as soon as you are ready to submit the final draft of your charter. The Open Projects Administrator will review your charter for completeness and ensure it meets all requirements. If something’s missing, we’ll help you address it.
+Contact the [OASIS Project Administrator](mailto:project-admin@oasis-open.org) as soon as you are ready to submit the final draft of your charter. We will review your charter for completeness and ensure it meets all requirements. If something’s missing, we’ll help you address it.
 
 Submitting your final charter kicks off our internal pre-launch checklist process, wherein we confirm all the tools and required paperwork are in place to "go live" with your Open Project!
 
