@@ -43,7 +43,7 @@ Keeping meeting minutes is not only [a requirement for OASIS Open Projects](http
 
 Some Open Projects record their meetings and publish those recordings, but not everyone has time to watch a 30-60 minute video. So it is important to take written meeting minutes for the sake of transparency and accessibility.
 
-Meeting minutes do not need to include every detail of a discussion but at a minimum should record attendance, votes and other decisions as well as action items and who is responsible for those.
+Meeting minutes do not need to include every detail of a discussion but at a minimum should record attendance, votes and other decisions as well as action items and who is responsible for those. You can find [a template here](../templates/meeting-minutes-template.md). The template can be modified to mirror your PGB's needs.
 
 
 # Checklist for successful meeting:
