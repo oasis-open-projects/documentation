@@ -7,7 +7,7 @@ This documentation repo houses all the info you'll need to get acquainted with t
 * The [templates][templates] directory is where you'll find useful boilerplates for Open Projects, including the [Open Project Draft Charter Template][charter].
 * The [board-docs][boarddocs] directory houses Open Projects documents that have been ratified by the OASIS Board of Directors.
 
-Visit our website at [oasis-open-projects.org](https://oasis-open-projects.org) or check out our [Getting Started Guide][gsg] to start exploring how you can get involved with OASIS Open Projects. 
+Visit our website at [oasis-open-projects.org](https://oasis-open-projects.org) or [oasis-open.org](https://oasis-open.org) and check out our [Getting Started Guide][gsg] to start exploring how you can get involved with OASIS Open Projects. 
 
 
 ## Open Projects Benefits
