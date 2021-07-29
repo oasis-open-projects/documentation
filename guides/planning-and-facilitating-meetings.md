@@ -43,22 +43,24 @@ Some Open Projects make video recordings of their meetings and publish those rec
 
 Meeting minutes do not need to include every detail of a discussion but at a minimum should record attendance, votes and other decisions, as well as action items and who is responsible for those. You can find [a template here](../templates/meeting-minutes-template.md). The template can be modified to mirror your PGB's needs.
 
-After the meeting, publish the minutes as a draft in the designated GitHub repository, e.g. /project-records, indicating the provisional nature of the minutes with a "-draft" in the file name. Then send an email to your PGB, TSC or WG mailing list to inform the members and ask them to review the minutes and action items.
+After the meeting, publish the minutes as a draft in the designated GitHub repository, e.g. /project-records, indicating the provisional nature of the minutes with a "-draft" in the file name. Then, send an email to your PGB, TSC or WG mailing list to inform the members and ask them to review the minutes and action items.
+
 Different PGBs, TSCs or WGs might have different policies for approving meeting minutes. Most common, the minutes will get approved at the start of the next meeting. Once the minutes are approved, remove the "-draft" from the file on GitHub accordingly.
 
 
 # Checklist for successful meeting:
-- [ ] Invitation including agenda and any other important documents is sent out at least 7 days ahead of the meeting
-- [ ] Session chair is prepared and present: they should know the agenda and all the relevant documents
-- [ ] Identify a minute taker. This should not be the same person as the chair
-- [ ] Minute taking document link is included in meeting invitation
-- [ ] Roll call – including who is allowed to vote in PGB meetings (the company they represent has to have signed an eCLA)
-- [ ] Guests and newcomers should briefly introduce themselves
-- [ ] Action items are reviewed
+- [ ] Sent out the invitation including agenda and any other important documents at least 7 days ahead of the meeting
+- [ ] Be prepared and present: you should know the agenda and all the relevant documents
+- [ ] Identify a minute taker. This should not be the same person as the chair (you)
+- [ ] Be sure to include the link to the document for taking the minutes in meeting invitation
+- [ ] Take a roll call – including who is allowed to vote in PGB meetings (the company they represent has to have signed an eCLA)
+- [ ] Invite any guests and newcomers to briefly introduce themselves
+- [ ] If it complies with your PGBs policies, ask the group to approve the meeting minutes of the previous meeting
+- [ ] Make sure the action items are reviewed
 
 ## After the meeting:
-- [ ] Draft of meeting minutes are published in GH repo and mailing list is informed
-- [ ] Action items are clearly communicated and have delivery dates
+- [ ] Publish a draft of meeting minutes in GitHub repository and and inform the mailing list
+- [ ] Ensure that the action items are clearly communicated and have delivery dates
 
 
 # Useful links:
