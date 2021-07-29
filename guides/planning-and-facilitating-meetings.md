@@ -39,9 +39,12 @@ Where applicable, the agenda should list the person who will lead the discussion
 ## Keeping meeting minutes
 Keeping meeting minutes is not only [a requirement for OASIS Open Projects](https://www.oasis-open.org/policies-guidelines/open-projects-process/#visibility-archival-permanence), but also enables people who can't be present in these calls to keep track of what's happening.
 
-Some Open Projects make video recordings of their meetings and publish those recordings, but not everyone has time to watch a 30-60 minute video. So it is important to take written meeting minutes for the sake of transparency and accessibility.
+Some Open Projects make video recordings of their meetings and publish those recordings, but not everyone has time to watch a 30-60 minute video. So it is important to **take written meeting minutes** for the sake of transparency and accessibility.
 
 Meeting minutes do not need to include every detail of a discussion but at a minimum should record attendance, votes and other decisions, as well as action items and who is responsible for those. You can find [a template here](../templates/meeting-minutes-template.md). The template can be modified to mirror your PGB's needs.
+
+After the meeting, publish the minutes as a draft in the designated GitHub repository, e.g. /project-records, indicating the provisional nature of the minutes with a "-draft" in the file name. Then send an email to your PGB, TSC or WG mailing list to inform the members and ask them to review the minutes and action items.
+Different PGBs, TSCs or WGs might have different policies for approving meeting minutes. Most common, the minutes will get approved at the start of the next meeting. Once the minutes are approved, remove the "-draft" from the file on GitHub accordingly.
 
 
 # Checklist for successful meeting:
@@ -54,8 +57,9 @@ Meeting minutes do not need to include every detail of a discussion but at a min
 - [ ] Action items are reviewed
 
 ## After the meeting:
-- [ ] Meeting minutes are published in GH repo and mailing list is informed
+- [ ] Draft of meeting minutes are published in GH repo and mailing list is informed
 - [ ] Action items are clearly communicated and have delivery dates
+
 
 # Useful links:
 * [Remote meeting guide from Gitlab](https://about.gitlab.com/company/culture/all-remote/meetings/#how-do-you-do-all-remote-meetings-right)
