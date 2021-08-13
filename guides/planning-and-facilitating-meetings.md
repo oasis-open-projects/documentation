@@ -4,6 +4,16 @@ Meetings should to have a reliable, regular schedule – bi-weekly, monthly – 
 - [Doodle](https://doodle.com/) for polling a group
 - [The World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meetingtime.html) for finding the best time across various time zones
 
+If participants in your project live in both eastern and western hemispheres, no one meeting time may work for everyone. Depending on how many participants are involved, you may want to consider alternative approaches to accomodate the maximum number of people: 
+
+- Split meetings into two, one scheduled for particpants from the Atlantic rim and one scheduled for participants from the Pacific rim; 
+- Alternate meeting times to accomodate participants from the different regions; 
+- Record meetings so that those who cannot participate directly can watch the meeting afterwards and provide feedback asynchronously; 
+- Consider working completely asynchronously using email, GitHub issues, messaging apps, and electronic ballots with in-person meetings being held only when the team deems necessary.
+
+OASIS staff is happy to help you find a solution that will work effectively for your project. 
+
+
 <!-- ## Tools
 - Zoom
 - Teams
