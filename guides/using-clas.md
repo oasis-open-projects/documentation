@@ -20,7 +20,7 @@ For **Entity CLAs,** which are less common, the process is manual - if you or yo
 
 Project leaders can confirm that a contributor has signed an Individual CLA simply by looking at the CLA Bot's visual marker on the contributor's pull requests.
 
-If project leaders need to confirm whether an Entity CLA has been signed, they can look that information up at [this URL](https://www.oasis-open.org/resources/projects/cla/projects-view-entity-cla). 
+If project leaders need to confirm whether an Entity CLA has been signed, they can look that information up at [this URL](https://community.oasis-open.org/s/searchdirectory?id=a233l0000038IIo). 
 
 ### What happens if the license or terms change?
 
