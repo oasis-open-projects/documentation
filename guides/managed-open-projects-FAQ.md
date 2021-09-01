@@ -25,19 +25,23 @@ Yes. To ensure the work produced by a Managed Open Project is eligible to be rat
 
 Associations that would like to rely on OASIS for hosting, but wish to use different rules, may be able to take advantage of the [Foundation-as-a-Service](https://www.oasis-open.org/foundation-as-a-service/) program.  
  
-**4) How are deliverables approved?**
+**4) How is the project governed?**
+
+Each Managed Open Project has its own Project Governing Board (PGB) and Technical Steering Committee (TSC), as described in the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The PGB for a Managed Open Project is made up of representatives from the Association and the organizations that sponsor the project. OASIS provides support for the PGB and TSC, but does not hold voting seats in either group.
+
+**5) How are deliverables approved?**
 
 Following the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/), specifications are first approved by the Project Governing Board (PGB). The PGB then has the option to submit specifications for approval by the OASIS membership as full OASIS Standards. Once approved as an OASIS Standard, a deliverable may be submitted by OASIS to a de jure body upon request of the PGB.
 
 Deliverables use a special Managed Open Project template that features the Association’s logo, as well as elements required by OASIS and necessary for submission to de jure bodies.  
 
-**5) How are Managed Open Projects funded?**
+**6) How are Managed Open Projects funded?**
 
 OASIS services may be funded by:
 * an annual fee paid by the Association alone; or
 * annual dues paid to OASIS from organizations that sponsor the Managed Open Project; or 
 * a combination.
 
-The minimum funding requirement for a Managed Open Project is negotiable based on size, activity level, and other factors.
+The minimum funding requirement for a Managed Open Project is based on its size, activity level, and other factors.
 
 **To explore how the your Association could benefit from starting a Managed Open Project, contact communications@oasis-open.org.**
