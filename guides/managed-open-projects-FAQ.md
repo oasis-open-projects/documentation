@@ -1,6 +1,6 @@
 # OASIS Managed Open Projects FAQ
 
-Managed Open Projects is a program that lets select nonprofit Associations produce and promote their own branded standards using the internationally respected OASIS Open technical process, resources, and staff.  Standards developed under this program comply with all relevant international and governmental criteria. They are eligible for approval as accredited OASIS Standards as well as submission to de jure bodies such as ISO, IEC, and ITU.
+Managed Open Projects is a program that lets select nonprofit Associations produce and promote their own branded standards using the internationally respected OASIS Open technical process, resources, and staff.  Standards developed under this program comply with all relevant international and governmental criteria. They are eligible for approval as accredited OASIS Standards and can be submitted for publication by de jure bodies such as ISO, IEC, and ITU.
 
 **1) Is the Managed Open Projects program open to any association?**
 
