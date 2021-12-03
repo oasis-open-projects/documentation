@@ -1,11 +1,11 @@
-*Note: this template is provided to give you a good idea about the kind of information you should include in a README.md file as a best practice. You may copy and edit it as you see fit for your community. What do you want people to know about your project who are just coming across it for the first time? OASIS Staff are happy to collaborate with you as well.*
+*Note: this template is provided to give you a good idea about the kind of information you should include in a README.md file as a best practice. You may copy and edit it as you see fit for your community. What do you want people to know about your project who are just coming across it for the first time? OASIS Staff are happy to collaborate with you as well. Further README inspiration can be found [here](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) and [here](https://github.com/hackergrrl/art-of-readme#readme).
 
 Table of contents
 -----------------
 
-* [Project Logo](#project logo)
+* [Project Logo](#project-logo)
 * [Project Title](#project-title)
-* [Join us on Slack](#join-us-on-slack)
+* [Introduction](#introduction)
 * [Getting Started](#installation)
 * [Prerequisites](#prerequisites)
 * [Installing](#installing)
@@ -17,6 +17,7 @@ Table of contents
 * [Contributing](#contributing)
 * [Versioning](#versioning)
 * [Authors and or TSC and PGB members](#authors-and-or-tsc-pgb-members)
+* [Join us on Slack](#join-us-on-slack)
 * [License](#license)
 * [Acknowledgments](#acknowledgements)
 
@@ -27,8 +28,16 @@ If available, add project logo.
 
 One Paragraph of project description goes here. Include the copy: "<PROJECT NAME> is an [OASIS Open Project](https://oasis-open-projects.org/)"
 
-## Join us on Slack
-If your project has a Slack, add it here, eg. "Click here and fill out the form to receive an invite to the [Project name] slack instance, to meet the community and learn more about how you can engage."
+## Introduction
+
+* State what problem(s) your project solves.
+* Note its development status.
+* List the most useful/innovative/noteworthy features.
+* Note and briefly describe any key concepts (technical,  philosophical, or both) important to the user’s understanding.
+* Link to any supplementary blog posts or project main pages.
+* Compare/contrast your project with other, similar projects so the user knows how it is different from those projects.
+* Highlight the technical concepts that your project demonstrates or supports. Keep it very brief.
+* If possible, include screenshots and demo videos.
 
 ## Getting Started
 
@@ -36,7 +45,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them. Also list any dependencies, if applicable.
 
 ```
 Give examples
@@ -94,6 +103,7 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CODE_OF_CONDUCT](link to your code_of_conduct.md file) and [CONTRIBUTING.md](link to your contributing.md file) for details on our code of conduct, and the process for submitting pull requests to us.
 
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
@@ -103,6 +113,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## Join us on Slack
+If your project has a Slack, add it here, eg. "Click here and fill out the form to receive an invite to the [Project name] slack instance, to meet the community and learn more about how you can engage."
 
 ## License
 
