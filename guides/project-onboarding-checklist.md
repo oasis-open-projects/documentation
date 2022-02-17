@@ -8,36 +8,30 @@ This document is intended to give you a high-level understanding of the onboardi
 
 - [ ] Work collaboratively with your community shareholders to craft your OP charter. 
 
-- [ ] Identify & recruit the initial Project leadership who will make up your PGB and TSC. PGB members will need to sign an [Entity CLA](../policy/clas-and-special-covenant.md), so make sure to circulate that as well. If you want to recruit from outside your existing community, OASIS staff can assist with outreach. 
+- [ ] Identify initial sponsors that are committed to supporting your project. Each sponsor organization will have the option to hold a seat on your Project Governing Board (PGB). If you want to recruit from outside your existing community, OASIS staff can assist with outreach. 
 
 - [ ] Discuss any specific requirements your project may have with OASIS staff (e.g. resources, infrastructure requirements, special software needs, etc.) 
 
 - [ ] Submit the final version of your charter to OASIS when project sponsors and leadership are ready. 
 
-- [ ] Work with OASIS to determine timeline to launch your Open Project. You may want to consider major industry events, fiscal calendars, project bandwidth issues, or other important factors when creating this timeline.
+- [ ] Work with OASIS to determine timeline to launch your Open Project. Your project officially launches at the first meeting of the PGB. OASIS will issue a press release following that meeting citing all your initial sponsors. 
 
 
 ### 2. Setting up your project's assets
 
-- [ ] Assess any existing project assets - review repositories, websites, mailing lists, social media accounts, and other digital assets associated with the project.  
+- [ ] Assess existing project assets (if any). Provide OASIS staff with a list of all repositories, websites, mailing lists, social media accounts, and other digital assets associated with the project.  
 
 - [ ] If assets are missing or gaps are identified, work with OASIS to set up project resources or bring in any existing assets you need.
 
 - [ ] If you are bringing in an existing website or other resources, review our [website guidelines](./project-website-guidelines.md) and determine what modifications will be needed meet OASIS Open Projects requirements.
 
-- [ ] Confer with OASIS on your GitHub and project organization strategy:
-	- You can create a new GitHub organization or confer with OASIS if you have an existing structure that you prefer to keep in place
-	- Also review other assets such as webpages, social media presence, mailing lists, etc. 
 
 ### 3. Announcing your OASIS Open Project
 
-- [ ] During the interim stage, after the final charter has been submitted and accepted, feel free to communicate openly about project acceptance with interested parties, via social media, email lists, etc. 
-	- You're also welcome to talk openly about your intention to participate and invite others to join you in that conversation. The important part is being clear about whether the project has been accepted. 
-	- Feel free to include pointers to OASIS staff in your announcements 
+- [ ] Prior to launch, OASIS staff will work with you to identify and invite key stakeholders to participate. The more momentum you can show for your project, the better it will be received. You may choose to communicate openly about project via blogs, social media, email lists, etc. during this time.
 
-- [ ] Once the infrastructure is in place for your community, work with the OASIS team to draft official announcements for OASIS members and your the project community. 
+- [ ] After the first PGB meeting, OASIS will issue the official launch press release. 
 
-- [ ] Optionally, you can also work with the OASIS team to issue press announcements or solicit media coverage. 
 
 [charter]: ../templates/open-project-draft-charter-template.md
 [get-start]: ./getting-started-guide.md
