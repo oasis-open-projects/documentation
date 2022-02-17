@@ -97,7 +97,7 @@ As part of the internal pre-launch checklist process, we will review your projec
 
 OASIS will officially launch your project as soon as possible after your final charter has been submitted and reviewed, and the pre-flight checklist has been complete.
 
-After the first meeting of the PGB, OASIS will issue a press release announcing your project and its initial sponsors, which will be promoted via the main OASIS website, mailing lists, and social media channels. We will also work with Project Sponsors and community stakeholders to help them amplify the launch message to ensure maximum reach. 
+After the first meeting of the PGB, OASIS will issue an official press release announcing your project and its initial sponsors. Sponsors will have the option to be quoted in this press release, and the announcement will be promoted via the main OASIS website, mailing lists, and social media channels. We will also work with Project Sponsors and community stakeholders to help them amplify the launch message to ensure maximum reach. 
 
 **With your project launched, it's time to get busy collaborating! Check out these [additional guides][guides] for more help, or contact OASIS to take your next step as an Open Project.**
 
