@@ -28,7 +28,18 @@ requirements must be met before it can be considered for formation as an officia
 When you are ready to submit this charter, notify [OASIS](mailto:op-admin@oasis-open.org). The Open Projects Administrator will ensure it is complete and meets all requirements.   
 
 For more information, please see:
-
--   [Open Projects Handbook](../board-docs/open-projects-handbook.md)
+<!--   -   [Open Projects Handbook](../board-docs/open-projects-handbook.md)
 -   [Open Project Rules](../board-docs/open-projects-rules.md)
--   [Open Projects Website](http://oasis-open-projects.org)
+-   [Open Projects Website](http://oasis-open-projects.org) --> 
+
+- [Open Projects Handbook](../board-docs/open-projects-handbook.md)
+- [Open Projects Guides](https://github.com/oasis-open-projects/documentation/tree/master/guides)
+- [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process)
+- [Open Projects Program](https://www.oasis-open.org/open-projects/)
+
+Sample project charters: 
+
+- [Open Services for Lifecycle Collaboration (OSLC) Open Project](https://github.com/oslc-op/oslc-admin/blob/master/OSLC-open-project-charter.md)
+- [Open Cybersecurity Alliance (OCA) Open Project](https://github.com/opencybersecurityalliance/oca-admin/blob/master/CHARTER.md)
+- [Origin Blockchain Exchange (OriginBX) Open Project](https://github.com/originbx-oasis/oasis-open-project/blob/main/CHARTER.md)
+
