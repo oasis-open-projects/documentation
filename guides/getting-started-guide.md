@@ -26,9 +26,9 @@ Begin by reviewing the [Open Project Charter Template](https://github.com/oasis-
 
 The template requires eight sections of content:
 
-1. Project Name - the project's unique identifier.
-1. Abstract - a high-level, concise (80 words or fewer) description of the project, which helps OASIS & others communicate about the project.   
-1. Purpose and Scope - the specific problems your project addresses, described in a way that a person moderately versed in the subject area will understand. After adoption, this section can (and should!) be updated throughout your project's lifecycle.
+1. Project Name - Full name and short name or acronym. The will be the project's unique identifier.
+1. Abstract - a high-level, concise (80 words or fewer) description of the project's purpose which helps OASIS & others communicate about the project.   
+1. Statement of Purpose - the specific problems your project addresses, described in a way that a person moderately versed in the subject area will understand. After adoption, this section can (and should!) be updated throughout your project's lifecycle.
 1. Business Benefits - in this section, you'll get specific about key stakeholders (organizations, vertical industries, professional communities, etc) and how they benefit from or add value the project. This section helps you and OASIS make the case for being part of the work to potential sponsors and participants. 
 1. Relationship to Other Projects - this section helps people understand where the project fits in the current landscape. OASIS staff may also use this information to connect your project with other projects and stakeholders in the space.
 1. Repositories and Licenses - the list of GitHub organizations, repository names, urls, and current applicable licenses if any for the initial repositories you expect to become an OASIS Open Project. If you plan to create initialize a new GitHub organization or change licenses, you should note that here.
