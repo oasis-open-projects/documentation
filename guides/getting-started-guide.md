@@ -57,7 +57,7 @@ Licenses offer different patent guarantees, reuse rights, and requirements that 
 
 Contributor License Agreements (CLAs) [bind][cla] project contributors to the license, ensuring that the contribution is available and implementable under clear legal terms. OASIS Open Project CLAs feature a special Specification Non-Assertion Covenant that assures work produced can be advanced to Project Specification or OASIS Standard status without patent issues or ambiguities.
 
-Participants do not need to sign CLAs in order to review and comment on technical work, file bug reports, and make other non-substantive change requests to Open Project work products. People who wish to make substantive contributions to OASIS Open Projects are required to complete and submit an [Individual Contributor License Agreement (I-CLA)][icla]. If a person’s contributions represent intellectual property owned by a company, organization, or other corporate entity (i.e., contributions made as a designated employee or representative of the entity), then the corporate entity should also complete and submit an [Entity Contributor License Agreement (E-CLA)][ecla]. E-CLAs must be signed by all organizations with representatives on Project Governing Boards.
+Participants do not need to sign CLAs in order to review and comment on technical work, file bug reports, and make other non-substantive change requests to Open Project work products. People who wish to make substantive contributions to OASIS Open Projects are required to complete and submit an [Individual Contributor License Agreement (I-CLA)][icla]. If a person’s contributions represent intellectual property owned by a company, organization, or other corporate entity (i.e., contributions made as a designated employee or representative of the entity), then the corporate entity should also complete and submit an [Entity Contributor License Agreement (E-CLA)][ecla]. E-CLAs must be signed by all organizations with representatives on Project Governing Boards and Technical Steering Committees.
 
 Once your license has been selected, OASIS staff will set up the CLA collection and auditing tool for your project. 
 
@@ -85,11 +85,9 @@ Open Projects must create and publish documentation outlining the requirements f
 
 ### Selecting Collaboration Tools
 
-Chances are, your project already relies on a number of the same software collaboration tools we recommend for OASIS Open Projects. OASIS requires Open Projects to have publicly accessible tools for collaboration and development (see our [visibility][visibility] policy for more information). 
+OASIS requires Open Projects to use publicly accessible tools for collaboration and development (see our [visibility][visibility] policy for more information). These tools include integrated issue management, email lists, project boards, version control, release management, Wiki pages, chat, video conferencing, website, etc. If your community is already using tools we support, OASIS staff will help transition them to your new project. Otherwise, OASIS staff will set up the tools covering in our Core Services. 
 
-If your project doesn't yet have tools for things like integrated issue management, project boards, version control, release management, or Wiki pages, OASIS can help you set them up. Additionally, OASIS will support publicly archived email discussion lists and coordination with maintainers of any custom web sites or community portal web sites associated with an Open Project.
-
-OASIS Open Projects are expected to use git and GitHub for most collaborative development tasks. Projects are also strongly encouraged to have a website and use social media channels to socialize their work. OASIS can help set these tools up, or even maintain them, if needed.
+Most OASIS Open Projects use git and GitHub for the majority of their collaborative development tasks. Projects are also strongly encouraged to have a website and use social media channels to socialize their work. OASIS can help set these tools up and maintain them, with content provided by designated members of your community.
 
 Your project's PGB may elect to adopt additional collaboration or workflow tools after the project launches. Any tools selected for official use by the project must be cleared with OASIS - because Open Projects are expected to conduct business in public view, we want to ensure that access and archivability are prioritized. 
 
@@ -99,7 +97,7 @@ As part of the internal pre-launch checklist process, we will review your projec
 
 OASIS will officially launch your project as soon as possible after your final charter has been submitted and reviewed, and the pre-flight checklist has been complete.
 
-OASIS will announce the project via press release, and issue an invitation to participate via OASIS websites, mailing lists, and social media channels. We will also work with Project Sponsors and community stakeholders to help them amplify the launch message to ensure maximum reach. 
+After the first meeting of the PGB, OASIS will issue a press release announcing your project and its initial sponsors, which will be promoted via the main OASIS website, mailing lists, and social media channels. We will also work with Project Sponsors and community stakeholders to help them amplify the launch message to ensure maximum reach. 
 
 **With your project launched, it's time to get busy collaborating! Check out these [additional guides][guides] for more help, or contact OASIS to take your next step as an Open Project.**
 
