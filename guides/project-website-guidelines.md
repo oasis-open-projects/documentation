@@ -14,7 +14,7 @@ Use of the OASIS OPEN PROJECTS header is recommended (but not required).
 
 A small version of the OASIS OPEN PROJECTS logo should appear at the top of your project’s homepage, above the main navigation. Typically, the logo will be placed in the upper left corner on a black rule that runs the width of the page. The [OASIS OPEN PROJECTS logo](../../../tree/master/img/open-project-logos) should be approximately one third the height of the project’s logo.
 
-![OASIS Open Projects Logo](../img/open-project-logos/website-header-example.png)
+![OASIS Open Projects Logo](../img/open-project-logos/website-header-example-v2.png)
 
 
 
