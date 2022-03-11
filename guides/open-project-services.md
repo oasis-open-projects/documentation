@@ -1,4 +1,4 @@
-# OASIS Open Projects Services
+# OASIS Open Project Services
 
 [OASIS Open Projects](https://www.oasis-open.org/open-projects/) provides collaborative communities with the foundation-level support services they need to succeed. 
 
