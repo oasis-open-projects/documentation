@@ -1,4 +1,4 @@
-# OASIS Open Projects Service Packages FAQ
+# OASIS Open Project Services Packages FAQ
 
 Through the [Open Projects Program](https://www.oasis-open.org/open-projects/), OASIS provides collaborative communities with the foundation-level support and services they need to succeed. 
 
