@@ -23,7 +23,7 @@ This document is intended to give you a high-level understanding of the onboardi
 
 - [ ] If assets are missing or gaps are identified, work with OASIS to set up project resources or bring in any existing assets you need.
 
-- [ ] If you are bringing in an existing website or other resources, review our [website guidelines](./project-website-guidelines.md) and determine what modifications will be needed meet OASIS Open Projects requirements.
+- [ ] OASIS will host a dedicated website for your project, upon request. (This is optional; many projects find their GitHub sites sufficient.) OASIS provides a single-page template for smaller projects and a full-site template for larger groups. If your project already has a website, review our [website guidelines](./project-website-guidelines.md) and work with staff on modifications needed to meet Open Projects requirements.
 
 
 ### 3. Announcing your OASIS Open Project
