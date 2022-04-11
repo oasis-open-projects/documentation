@@ -1,9 +1,11 @@
-*Note: this template is provided to give you a good idea about the kind of information you should include in a README.md file as a best practice. You may copy and edit it as you see fit for your community. What do you want people to know about your project who are just coming across it for the first time? OASIS Staff are happy to collaborate with you as well. Further README inspiration can be found [here](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) and [here](https://github.com/hackergrrl/art-of-readme#readme).
+**Note:** This template is provided to give you a good idea about the kind of information you should include in a README.md file as a best practice. You know your project inside-out. Write your readme file for someone who doesn't know anything about it. What do you want people to know about your project who are just coming across it for the first time? OASIS Staff are happy to collaborate with you as well. Further README inspiration can be found [here](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) and [here](https://github.com/hackergrrl/art-of-readme#readme).
+
+You may copy and edit this template as you see fit for your project and your community.
 
 Table of contents
 -----------------
 
-* [Project Logo](#project-logo)
+* [Project Logo](#project-logo) (optional)
 * [Project Title](#project-title)
 * [Introduction](#introduction)
 * [Getting Started](#installation)
@@ -119,7 +121,9 @@ If your project has a Slack, add it here, eg. "Click here and fill out the form 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+*Example text*: This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+(You can find the list of licenses approved for OASIS Open Projects [here](https://www.oasis-open.org/policies-guidelines/open-projects-process/#repository-specification-licenses).)
 
 ## Acknowledgments
 
