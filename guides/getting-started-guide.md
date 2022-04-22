@@ -2,7 +2,7 @@
 
 Whether you’re an established group with a fully scoped Project or a few people with a great idea, OASIS can provide the resources you need to achieve international recognition and widespread adoption.
 
-There are no subject-matter limitations at OASIS. Projects decide on the technical agenda they wish to pursue. OASIS supports efforts ranging from cybersecurity, blockchain, privacy, IoT, cryptography, cloud computing, law, emergency management, static analysis, and many other areas of interest to our community. People involved in IT, telecommunications, healthcare, utilities, financial services, academia, government, and other industries all collaborate on work at OASIS.
+There are no subject-matter limitations at OASIS. Projects decide on the technical agenda they wish to pursue. OASIS supports efforts ranging from cybersecurity, blockchain, privacy, IoT, cryptography, cloud computing, law, emergency management, AI, digital trade and commerce, and many other areas. 
 
 ### High-level Overview
 
