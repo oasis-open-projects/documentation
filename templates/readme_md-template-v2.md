@@ -1,3 +1,6 @@
+# README.md template for code repositories
+
+
 **Note:** This template is provided to give you a good idea about the kind of information you should include in a README.md file as a best practice. You know your project inside-out. Write your readme file for someone who doesn't know anything about it. What do you want people to know about your project who are just coming across it for the first time? OASIS Staff are happy to collaborate with you as well. Further README inspiration can be found [here](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) and [here](https://github.com/hackergrrl/art-of-readme#readme).
 
 You may copy and edit this template as you see fit for your project and your community.
@@ -10,18 +13,18 @@ Table of contents
 * [Introduction](#introduction)
 * [Getting Started](#installation)
 * [Prerequisites](#prerequisites)
-* [Installing](#installing)
-* [Running the tests](#running-the-tests)
+* [Installation](#installion)
+* [How to run tests](#how-to-run-tests)(optional)
 * [Break down into end to end tests](#break-down-into-end-to-end-tests)
 * [And coding style tests](#and-coding-style-tests)
 * [Deployment](#deployment)
 * [Built With](#built-with)
 * [Contributing](#contributing)
 * [Versioning](#versioning)
-* [Authors and or TSC and PGB members](#authors-and-or-tsc-pgb-members)
-* [Join us on Slack](#join-us-on-slack)
+* [Authors and Maintainers](#authors-and-maintainers)
+* [Join us on Slack](#join-us-on-slack)(optional)
 * [License](#license)
-* [Acknowledgments](#acknowledgements)
+* [Acknowledgments](#acknowledgements)(optional)
 
 # Project Logo
 If available, add project logo.
@@ -53,7 +56,7 @@ What things you need to install the software and how to install them. Also list 
 Give examples
 ```
 
-### Installing
+### Installation
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -71,21 +74,9 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## How to run tests
 
 Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
 
 ```
 Give an example
@@ -96,6 +87,9 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
+
+List any libraries, frameworks or other projects that your code might be using,
+for example:
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
@@ -110,14 +104,14 @@ Please read [CODE_OF_CONDUCT](link to your code_of_conduct.md file) and [CONTRIB
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors &/or TSC & PGB members
+## Authors and Maintainers
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Join us on Slack
-If your project has a Slack, add it here, eg. "Click here and fill out the form to receive an invite to the [Project name] slack instance, to meet the community and learn more about how you can engage."
+If your project has a Slack, add it here, eg. "Click here and fill out the form to receive an invite to the [Project name] slack instance, to meet the community and learn more about how you can engage."[add link to Slack]
 
 ## License
 
