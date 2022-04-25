@@ -12,16 +12,14 @@ Table of contents
 * [Project Title](#project-title)
 * [Introduction](#introduction)
 * [Getting Started](#installation)
-* [Prerequisites](#prerequisites)
 * [Installation](#installion)
 * [How to run tests](#how-to-run-tests)(optional)
-* [Break down into end to end tests](#break-down-into-end-to-end-tests)
-* [And coding style tests](#and-coding-style-tests)
 * [Deployment](#deployment)
 * [Built With](#built-with)
 * [Contributing](#contributing)
 * [Versioning](#versioning)
 * [Authors and Maintainers](#authors-and-maintainers)
+* [Support](#support)
 * [Join us on Slack](#join-us-on-slack)(optional)
 * [License](#license)
 * [Acknowledgments](#acknowledgements)(optional)
@@ -48,13 +46,8 @@ One Paragraph of project description goes here. Include the copy: "<PROJECT NAME
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+If applicable, list here what is need to install the software and how to install them. Also list any dependencies, if applicable.
 
-What things you need to install the software and how to install them. Also list any dependencies, if applicable.
-
-```
-Give examples
-```
 
 ### Installation
 
@@ -109,6 +102,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## Support
+Where can people ask for help: this can be any combination of an issue tracker,Slack, a chat room, an email address, etc.
 
 ## Join us on Slack
 If your project has a Slack, add it here, eg. "Click here and fill out the form to receive an invite to the [Project name] slack instance, to meet the community and learn more about how you can engage."[add link to Slack]
