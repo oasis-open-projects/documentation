@@ -1,4 +1,4 @@
-## Onboarding your Open Project
+## Onboarding Your Open Project Checklist
 This document is intended to give you a high-level understanding of the onboarding process and steps to become an Open Project. For a closer look and more guidance on each step, take a look at the [Getting Started Guide][get-start]. You can also copy this checklist to mark steps off as you complete them.
 
 
