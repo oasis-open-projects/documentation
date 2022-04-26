@@ -41,11 +41,11 @@ The final version of your charter will need to be submitted in English, but feel
 
 ### Identifying Project Sponsors
 
-One of the advantages of starting your Open Project at OASIS is the opportunity recruit participants from our international community. Whether you start your project with a large, robust community or a few people, OASIS staff will work with you to attract supporters before and after your project is launched.
+One of the advantages of starting your Open Project at OASIS is the opportunity recruit participants from our international community. Whether you start your project with a large, robust community or a few people, OASIS staff will work with you to attract supporters.
 
 Identifying organizations that will sponsor your project is an important step. Sponsors pay [annual sponsorship dues](https://www.oasis-open.org/join/#membership-dues-op) that cover the basic support services provided by OASIS. These dues vary based on the organization's size and level of investment in the project. Each Sponsor organization has the option to appoint one representative to serve on the Project Governing Board (PGB). 
 
-Before your project can launch as an OASIS Open Project, it must meet a minimum threshold in annual sponsorship commitments. [Contact OASIS](mailto:communications@oasis-open.org) for details on this. If you don’t have the minimum sponsorship for your project — or if you’d like to have more stakeholders on board before launch — OASIS staff can help find sponsors from the OASIS community and beyond.
+Before your project can launch, it must have enough annual sponsorship commitments to cover the launch costs (at least $25,000). [Contact OASIS](mailto:communications@oasis-open.org) for details on this. Once you have enough initial sponsors on board, OASIS staff will take on responsibility for outreach to the broader community.
 
 Your charter should describe the type of organizations that will benefit from sponsoring your project and the value of participation. Be as specific as you can, as this information will help prospective members secure internal approval for getting involved. 
 
