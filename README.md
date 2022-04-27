@@ -33,3 +33,7 @@ Contact us at [op-admin@oasis-open.org][email] to learn more about how your proj
 [boarddocs]: ./board-docs
 [docmap]: ./open-projects-master-doc-list.md
 [email]: mailto:op-admin@oasis-open.org
+
+## License
+
+All assets are under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode).
