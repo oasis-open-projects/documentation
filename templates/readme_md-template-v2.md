@@ -10,6 +10,7 @@ Table of contents
 
 * [Project Logo](#project-logo) (optional)
 * [Project Title](#project-title)
+* [Badges](#badges) (optional)
 * [Introduction](#introduction)
 * [Getting Started](#installation)
 * [Installation](#installion)
@@ -30,6 +31,10 @@ If available, add project logo.
 # Project Title
 
 One Paragraph of project description goes here. Include the copy: "<PROJECT NAME> is an [OASIS Open Project](https://oasis-open-projects.org/)"
+
+## Badges
+
+Using badges is optional, but they are a nice way to show some key facts and stats about your project at a glance. There are badges for all kinds of things relating to your repository, e.g. to show the license you're using, the programming language, the number of forks, or a CI badge to show build/test status. Be mindful not to use too many badges. You can use [Shields](http://shields.io/) to add some to your README. Many services also have instructions for adding a badge. Check out the README of the Open Cybersecurity Alliance project [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) to see badges in action.
 
 ## Introduction
 
@@ -90,7 +95,7 @@ for example:
 
 ## Contributing
 
-Please read [CODE_OF_CONDUCT](link to your code_of_conduct.md file) and [CONTRIBUTING.md](link to your contributing.md file) for details on our code of conduct, and the process for submitting pull requests to us.
+Add a brief explanation of what kind of contributions you are looking for and what your requirements are for accepting them. Add a link to [CONTRIBUTING.md](link to your contributing.md file) and a link to [CODE_OF_CONDUCT](link to your code_of_conduct.md file).
 
 
 ## Versioning
@@ -117,6 +122,9 @@ If your project has a Slack, add it here, eg. "Click here and fill out the form 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Add a Hat tip to anyone whose code was used or projects that inspire your work etc.
+
+A big **Thank you** for inspiration for this template goes to:
+* the authors of [Make a README](https://www.makeareadme.com/)
+* [@hackergrrl](https://github.com/hackergrrl/art-of-readme#readme)
+* [@matiassingers](https://github.com/matiassingers/awesome-readme)
