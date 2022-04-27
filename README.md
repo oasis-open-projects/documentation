@@ -1,5 +1,7 @@
 # Welcome to the home of OASIS Open Projects!
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This documentation repo houses all the info you'll need to get acquainted with the OASIS Open Projects program. 
 
 * The [guides][guides] directory houses process documentation for projects, programs and services. 
