@@ -2,7 +2,7 @@
 
 **Note:** This template is provided to give you a good idea about the kind of information you should include in a README.md file as a best practice. You know your project inside-out. Write your readme file for someone who doesn't know anything about it. What do you want people to know about your project who are just coming across it for the first time? OASIS Staff are happy to collaborate with you as well.
 
-Further README inspiration can be found [here](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) and [here](https://github.com/hackergrrl/art-of-readme#readme).
+Further README inspiration can be found [here](https://www.makeareadme.com/) and [here](https://github.com/hackergrrl/art-of-readme#readme).
 
 You may copy and edit this template as you see fit for your project and your community. You are also welcome to use emojis, graphics or images in your README. This file should be reviewed and kept up-to-date.
 
@@ -53,6 +53,16 @@ Please make sure to update it on a regular basis – when new files or folder ar
 
 Give a brief explanation of what kind of contributions you are looking for and what your requirements are for accepting them. Then link to
 [CONTRIBUTING.md](link to your contributing.md file) for more information and also add a link to [CODE_OF_CONDUCT](link to your code_of_conduct.md file).
+
+## Authors and Maintainers
+
+Adds names / GitHub profile links for those who have contributed to this repository. If you have a maintainer's list, link to it here.
+
+## Support
+Where can people ask for help: this can be any combination of an issue tracker,Slack, a chat room, an email address, etc.
+
+## Join us on Slack
+If your project has a Slack, add it here, eg. "Click here and fill out the form to receive an invite to the [Project name] slack instance, to meet the community and learn more about how you can engage."[add link to Slack]
 
 ## License
 
