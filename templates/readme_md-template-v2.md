@@ -21,9 +21,9 @@ Table of contents
 * [Versioning](#versioning)
 * [Authors and Maintainers](#authors-and-maintainers)
 * [Support](#support)
-* [Join us on Slack](#join-us-on-slack)(optional)
+* [Join us on Slack](#join-us-on-slack) (optional)
 * [License](#license)
-* [Acknowledgments](#acknowledgements)(optional)
+* [Acknowledgments](#acknowledgements) (optional)
 
 # Project Logo
 If available, add project logo.
