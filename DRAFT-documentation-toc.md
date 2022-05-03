@@ -1,23 +1,23 @@
-#Draft proposed Open Projects documentation table of contents
+# Draft proposed Open Projects documentation table of contents
 
 Put this into the spreadsheet inventory, add doc names and urls, and use to track progress
 
 ## For interested outsiders
 
-  - how to start an open project
-  - open project faq
-  - managed open project faq 
-  - how ipr is handled at OASIS: clas, non-assert covenants, etc. - why it matters
-    - Choosing a FOSS license
+- How to start an open project (including
+  - how ipr is handled at OASIS: clas, non-assert covenants, etc. and why it matters
+  - Choosing a FOSS license
+  - What role does OASIS play? 
+- Open project FAQ
+- Managed pen project FAQ
 
-  - what role does OASIS play? 
-
-- For OP participants 
+## For OP participants 
   - Master ToC to all content
 
   - General interest
     - OP handbook
        - Overview of OP rules (what the policy means in practice)
+  - What role does OASIS play? 
     - Getting started guide
     - Sponsor's welcome guide
     - Open Project service guide
