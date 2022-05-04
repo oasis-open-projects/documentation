@@ -13,7 +13,7 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
 
 ## For OP participants 
 
-###For general interest
+### For general interest
 - OP handbook (including
   - Overview of OP rules (what the policy means in practice)
   - What role does OASIS play? 
@@ -21,7 +21,7 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
 - Sponsor's welcome guide
 - Open Project services guide
 
-###For chairs
+### For chairs
 - chair's guide, including: 
   - minutes requirements/best practice/templates 
   - accommodating global timezones - staggered times or 2 part meetings/recordings
