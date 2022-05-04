@@ -12,28 +12,27 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
 - Managed pen project FAQ
 
 ## For OP participants 
-  - Master ToC to all content
 
-  - General interest
-    - OP handbook
-       - Overview of OP rules (what the policy means in practice)
+###For general interest
+- OP handbook (including
+  - Overview of OP rules (what the policy means in practice)
   - What role does OASIS play? 
-    - Getting started guide
-    - Sponsor's welcome guide
-    - Open Project service guide
+- Getting started guide
+- Sponsor's welcome guide
+- Open Project services guide
 
-  - For chairs
-    - chair's guide, including: 
-       - minutes requirements/best practice/templates 
-       - accommodating global timezones - staggered times or 2 part meetings/recordings
-       - requirements for transparency and public accessibility
-       - keeping your project on track
-       - planning and facilitating meetings 
-       - decision-making
-       - onboarding new members
-       - how to appeal op-admin decisions 
+###For chairs
+- chair's guide, including: 
+  - minutes requirements/best practice/templates 
+  - accommodating global timezones - staggered times or 2 part meetings/recordings
+  - requirements for transparency and public accessibility
+  - keeping your project on track
+  - planning and facilitating meetings 
+  - decision-making
+  - onboarding new members
+  - how to appeal op-admin decisions 
 
-  - For members of the PGB
+###For members of the PGB
      - PGB guide
        - decision-making
        - putting work onto the OASIS standards track
@@ -54,6 +53,7 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
 
   - Support tools
      - templates for motions, ballots
+governance, TSC formation resolution 
      - checklists for common tasks
      - support request forms
      - look-up tools for CLAs
