@@ -8,7 +8,7 @@ There are two levels of **Core Services**:
 
 If needed, Projects may secure **Supplemental Services** based on their specific goals and sponsorship. 
 
-See our [FAQ](https://github.com/oasis-open-projects/documentation/blob/master/guides/open-project-services-faq.md) for details.
+See our [Services FAQ](https://github.com/oasis-open-projects/documentation/blob/master/guides/open-project-services-faq.md) for details.
 
 
 
