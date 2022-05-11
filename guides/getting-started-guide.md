@@ -26,7 +26,7 @@ Begin by reviewing the [Open Project Charter Template](https://github.com/oasis-
 
 The template requires eight sections of content:
 
-1. Project Name - Full name and short name or acronym. The will be the project's unique identifier.
+1. Project Name - Full name and short name or acronym. The will be the project's unique identifier. Do not use the word 'OASIS' as part of the full name or '-oasis' as part of the short name. The words "OASIS" or "OASIS Open" are an indication of source, and should not be integrated into the project's name directly. We find it is also good to find a name that is short, easily pronounced, and memorable. 
 1. Abstract - A high-level, concise (80 words or fewer) description of the project's purpose which helps OASIS & others communicate about the project.   
 1. Statement of Purpose - The specific problems your project addresses, described in a way that a person moderately versed in the subject area will understand. After adoption, this section can (and should!) be updated throughout your project's lifecycle.
 1. Business Benefits - In this section, you'll get specific about key stakeholders (organizations, vertical industries, professional communities, etc) and how they benefit from or add value the project. This section helps you and OASIS make the case for being part of the work to potential sponsors and participants. 
