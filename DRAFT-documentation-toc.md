@@ -9,7 +9,7 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
   - Choosing a FOSS license
   - What role does OASIS play? 
 - Open project FAQ
-- Managed pen project FAQ
+- Managed open project FAQ
 
 ## For OP participants 
 
