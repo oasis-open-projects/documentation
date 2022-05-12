@@ -4,6 +4,7 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
 
 ## For interested outsiders
 
+- What is an Open Project and why should you care?
 - How to start an open project (including
   - how ipr is handled at OASIS: clas, non-assert covenants, etc. and why it matters
   - Choosing a FOSS license
@@ -20,8 +21,9 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
 - Getting started guide
 - Sponsor's welcome guide
 - Open Project services guide
+- Community management guide
 
-### For chairs
+### For chairs (PGB, TSC or Working Group)
 - chair's guide (including
   - minutes requirements/best practice/templates 
   - accommodating global timezones - staggered times or 2 part meetings/recordings
@@ -73,6 +75,7 @@ Put this into the spreadsheet inventory, add doc names and urls, and use to trac
 
 - How-to documentation (set up github, set up mailing lists, check for clas, configure cla assistant bot
   - knowledge base like 'how do i' slack channel to capture immediate lessons learned
+  - how to set up a project website with WP
 
 - Support tools
   - look-up tools for CLAs
