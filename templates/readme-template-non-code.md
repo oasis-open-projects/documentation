@@ -4,7 +4,7 @@
 
 Further README inspiration can be found [here](https://www.makeareadme.com/) and [here](https://github.com/hackergrrl/art-of-readme#readme).
 
-You may copy and edit this template as you see fit for your project and your community. You are also welcome to use emojis, graphics or images in your README. This file should be reviewed and kept up-to-date.
+You may copy and edit this template as you see fit for your project and your community. You are also welcome to use emojis, graphics or images in your README. This file should be reviewed regularly and kept up-to-date.
 
 Table of contents
 -----------------
