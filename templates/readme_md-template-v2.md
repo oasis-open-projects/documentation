@@ -98,18 +98,16 @@ for example:
 Add a brief explanation of what kind of contributions you are looking for and what your requirements are for accepting them. Add a link to [CONTRIBUTING.md](link to your contributing.md file) and a link to [CODE_OF_CONDUCT](link to your code_of_conduct.md file).
 
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ## Authors and Maintainers
-
+  
+List authors and maintainers here, e.g.:
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+And/or:
+"See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project."
 
 ## Support
-Where can people ask for help: this can be any combination of an issue tracker,Slack, a chat room, an email address, etc.
+Where can people ask for help: this can be any combination of an issue tracker, Slack, a chat room, an email address, etc.
 
 ## Join us on Slack
 If your project has a Slack, add it here, eg. "Click here and fill out the form to receive an invite to the [Project name] slack instance, to meet the community and learn more about how you can engage."[add link to Slack]
