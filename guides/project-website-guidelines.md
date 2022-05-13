@@ -4,15 +4,13 @@ The project's primary website is often the first place people go to learn about 
 
 OASIS offers a hosted domain and design template for all Open Projects. If you’re starting your project fresh or looking to upgrade your web presence, OASIS staff can help with the set-up of your primary website.
 
-If your project already has its own website, you have the option to transfer it to an OASIS-hosted domain or continue on the domain you’re using, provided OASIS staff are given admin access. Migration and adherence to the OASIS design template is not required.
+If your project already has its own website, talk to OASIS staff about transfering it to an OASIS-hosted domain. Adherence to the OASIS design template is not required.
 
 To ensure consistency and fair disclosure, all Open Projects should incorporate the minimum required content described here.
 
 ### Headers
 
-Use of the OASIS OPEN PROJECTS header is recommended (but not required).
-
-A small version of the OASIS OPEN PROJECTS logo should appear at the top of your project’s homepage, above the main navigation. Typically, the logo will be placed in the upper left corner on a grey rule that runs the width of the page. The [OASIS OPEN PROJECTS logo](../../../tree/master/img/open-project-logos/OP-white-blue.png) should be approximately one third the height of the project’s logo.
+A small version of the OASIS OPEN PROJECTS logo should appear at the top of your project’s homepage, above the main navigation. Typically, the logo will be placed in the upper left corner on a grey rule that runs the width of the page. The [OASIS OPEN PROJECTS logo](../../../tree/master/img/open-project-logos/OP-white-blue.png) should be approximately one third the height of the project’s logo. For example:
 
 ![OASIS Open Projects Logo](../img/open-project-logos/website-header-example_v2.png)
 
