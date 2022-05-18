@@ -72,7 +72,7 @@ If your project has a Slack, add it here, eg. "Click here and fill out the form 
 
 ## Acknowledgments
 
-Add a Hat tip to anyone whose code was used or projects that inspire your work etc.
+Add a Hat tip to anyone whose work/code/project inspired your work.
 
 A big **Thank you** for inspiration for this template goes to:
 * the authors of [Make a README](https://www.makeareadme.com/)
