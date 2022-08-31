@@ -26,11 +26,11 @@ The TSC is responsible for translating the strategic direction into a practical 
 
 In establishing your TSC, start with defining good criteria for selecting members. Select TSC members who share a common view of your project’s scope. Populate the group with key experts whose views will carry weight with the PGB and community contributors. These technical leaders are a good proxy for how implementers will react, and they can help influence the direction of your early adopters. 
 
-### Tool 5 - Your Project Maintainer(s)
+### Tool 5 - Your Project Maintainers
 
-In most projects, the TSC will oversee appointing maintainers or core contributors who drive the day-to-day development. Project Maintainers are the ‘trail guides’ for your repositories and pull requests. As such, they need to clearly understand your project’s scope, so they can accept or reject contributions accordingly.
+The PGB in consultation with the TSC appoints the Maintainers, who drive the day-to-day development. Project Maintainers are the ‘trail guides’ for your repositories and pull requests. As such, they need to clearly understand your project’s scope, so they can accept or reject contributions accordingly.
 
-Make sure your TSC has a solid process for appointing Maintainers and regularly communicates project priorities. It’s a good idea to make sure there are open lines of communication between the Maintainers, TSC, and PGB members so that any unexpected issues can be easily addressed.
+Make sure your TSC regularly communicates project priorities with Maintainers. It’s a good idea to make sure there are open lines of communication between the Maintainers, TSC, and PGB members so that any unexpected issues can be easily addressed.
 
 ### Parting Guidance
 
