@@ -1,6 +1,6 @@
 # Keeping Your Open Project On Track: A Practical Guide
 
-When opening up your project to the wider world of stakeholders and developers, keeping your project’s roadmap on track and your objectives in tact are natural concerns. As support for the project grows, balancing the input and needs of the community with your own ideas and vision for the work can be challenging--but it’s all part of a healthy open source process.
+When opening up your project to the wider world of stakeholders and developers, keeping your project’s roadmap on track and your objectives intact are natural concerns. As support for the project grows, balancing the input and needs of the community with your own ideas and vision for the work can be challenging--but it’s all part of a healthy open source process.
 
 The OASIS Open Projects program gives you the tools and support to manage your community, so your project can benefit from true open source collaboration while staying on track to meet business needs.
 
