@@ -8,7 +8,7 @@ The OASIS Open Projects program gives you the tools and support to manage your c
 
 All Open Projects have public charters, which describe the project’s mission and scope to potential collaborators, sponsors, and users. The better your charter articulates your intended focus areas, outcomes, and methods, the easier it will be for others to determine if the project aligns with their own needs and goals. Use clear priority statements:  specify which outcomes and deliverables should be achieved first and which should be treated as later, low-priority, or deprecated outcomes. If your charter lays out a clear vision and direction to achieve it, newcomers will be much more likely to stay on the course you’ve charted. 
 
-The charter is drafted by you (and any co-proposers involved in your project) and can be updated by your Project Governing Board from time to time as they deem fit. This ensures that your project can evolve and you can make quality improvements and refinements as needed. Consider the charter the ‘North Star’ for your project; point newcomers to it so they clearly understand what your project is about before they start contributing. 
+Consider the charter the ‘North Star’ for your project; point newcomers to it so they clearly understand what your project is about before they start contributing. 
 
 ### Tool 2 - Your Existing Contributions
 
@@ -16,7 +16,7 @@ If you’re starting your Open Project with an existing contribution, consider t
 
 ### Tool 3 - Your Project Governing Board 
 
-The PGB includes representatives from your Project Sponsors - the organizations that pay annual sponsorship dues to support the project. Members of the PGB should understand and share your vision, which you should have articulated well in your project charter. Encourage organizations that agree with your vision and have a meaningful stake in the technology to become Project Sponsors and take an active role in the PGB. 
+The PGB includes representatives from your Project's Sponsors - the organizations that pay annual sponsorship dues to support the project. Members of the PGB should understand and share your vision, which you should have articulated well in your project charter. Encourage organizations that agree with your vision and have a meaningful stake in the technology to become Project Sponsors and take an active role in the PGB. 
 
 The PGB sets the strategic direction and monitors your project’s overall activities. They charter the Technical Steering Committee and other groups as needed to make sure work moves forward. As new Project Sponsors join the PGB, take time to educate each of them about your vision and the history of the project, and listen to the needs and perspectives they bring to the table. 
 
@@ -24,13 +24,13 @@ The PGB sets the strategic direction and monitors your project’s overall activ
 
 The TSC is responsible for translating the strategic direction into a practical roadmap of technical activities - triaging issues, managing releases, and responding to pull requests. In small projects, the PGB and the TSC may be one and the same. In larger projects, there may be multiple TSCs to address different areas of concern. Your Project Governing Board will have a lot of flexibility in setting up the TSC(s) to meet the needs of your project.
 
-In establishing your TSC, start with defining good criteria for selecting members. Select TSC members who share a common view of your project’s scope. Populate the group with key experts whose views will carry weight with the PGB and community contributors. These technical leaders are a good proxy for how implementers will react, and they can help influence the direction of your early adopters. 
+In establishing your TSC, start with defining good criteria for selecting its members. Choose TSC members who share a common view of your project’s scope. Populate the group with key experts whose views will carry weight with the PGB and community contributors. These technical leaders are a good proxy for how implementers will react, and they can help influence the direction of your early adopters. 
 
 ### Tool 5 - Your Project Maintainers
 
-The PGB in consultation with the TSC appoints the Maintainers, who drive the day-to-day development. Project Maintainers are the ‘trail guides’ for your repositories and pull requests. As such, they need to clearly understand your project’s scope, so they can accept or reject contributions accordingly.
+The PGB, in consultation with the TSC, appoints the Maintainers, who are the ‘trail guides’ for your repositories and pull requests. As such, they need to clearly understand your project’s goals and scope, so they can accept or reject contributions accordingly.
 
-Make sure your TSC regularly communicates project priorities with Maintainers. It’s a good idea to make sure there are open lines of communication between the Maintainers, TSC, and PGB members so that any unexpected issues can be easily addressed.
+Make sure your TSC regularly communicates project priorities with Maintainers. You want open lines of communication between the Maintainers, TSC, and PGB, so that your project continues to move in the direction laid out in your charter.
 
 ### Parting Guidance
 
