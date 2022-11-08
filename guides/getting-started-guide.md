@@ -45,7 +45,7 @@ One of the advantages of starting your Open Project at OASIS is the opportunity 
 
 Identifying organizations that will sponsor your project is an important step. Sponsors pay [annual sponsorship dues](https://www.oasis-open.org/join/#membership-dues-op) that cover the basic support services provided by OASIS. These dues vary based on the organization's size and level of investment in the project. Each Sponsor organization has the option to appoint one representative to serve on the Project Governing Board (PGB). 
 
-Before your project can launch, it must have enough annual sponsorship commitments to cover the launch costs (at least $25,000). [Contact OASIS](mailto:communications@oasis-open.org) for details on this. Once you have enough initial sponsors on board, OASIS staff will take on responsibility for outreach to the broader community.
+Before your project can launch, it must have enough annual sponsorship commitments to cover the costs of the services and support you'll need to accomplish your goals. [Contact OASIS](mailto:communications@oasis-open.org) for details on this. Once you have enough initial sponsors on board, OASIS staff will take on responsibility for outreach to the broader community.
 
 Your charter should describe the type of organizations that will benefit from sponsoring your project and the value of participation. Be as specific as you can, as this information will help prospective members secure internal approval for getting involved. 
 
