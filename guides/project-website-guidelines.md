@@ -20,7 +20,7 @@ A small version of the OASIS OPEN PROJECTS logo should appear at the top of your
 
 Project web pages should include a footer with this notice:
 
-{PROJECT NAME} ​© is an [OASIS Open Project](https://www.oasis-open.org/open-projects/). All rights reserved. OASIS [trademark](https://www.oasis-open.org/policies-guidelines/trademark), [IPR](https://www.oasis-open.org/policies-guidelines/ipr), [privacy](https://www.oasis-open.org/policies-guidelines/privacy), and other [policies](https://www.oasis-open.org/policies-guidelines) apply. [Contact OASIS](mailto:communications@oasis-open.org) for details.
+{PROJECT NAME} © is an [OASIS Open Project](https://www.oasis-open.org/open-projects/). All rights reserved. OASIS trademark, licensing, [privacy](https://www.oasis-open.org/policies-guidelines/privacy/) and [other policies](https://www.oasis-open.org/policies-guidelines/) apply. [Contact OASIS](mailto:communications@oasis-open.org) for details.
 
 The footer also may include the OASIS Open Projects logo. 
 
