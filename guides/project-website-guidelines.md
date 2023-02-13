@@ -4,7 +4,7 @@ The project's primary website is often the first place people go to learn about 
 
 OASIS offers a hosted domain and design template for all Open Projects. If you’re starting your project fresh or looking to upgrade your web presence, OASIS staff can help with the set-up of your primary website.
 
-If your project already has its own website, talk to OASIS staff about transfering it to an OASIS-hosted domain. Adherence to the OASIS design template is not required. It is required that OASIS staff has admin access to the Open Project's website to maintain content related to OASIS (sponsor logos etc.).
+If your project already has its own website, talk to OASIS staff about transfering it to an OASIS-hosted domain. OASIS requires that the domain is owned and hosted by OASIS. Adherence to the OASIS design template is not required. It is also required that OASIS staff has admin access to the Open Project's website to maintain content related to OASIS (sponsor logos etc.).
 
 To ensure consistency and fair disclosure, all Open Projects should incorporate the minimum required content described here.
 
