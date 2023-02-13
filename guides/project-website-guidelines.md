@@ -1,12 +1,14 @@
 ## Open Project Website Guidelines
 
-The project's primary website is often the first place people go to learn about the objectives of your work and how to get involved. Branding for this site should be distinctive for your project, capturing the spirit and culture of your community. Content should be compelling, clear, and easily navigated.
+Your project's primary website is often the first place people go to learn about the objectives of your work and how to get involved. Branding for this site should be distinctive for your project, capturing the spirit and culture of your community. Content should be compelling, clear, and easily navigated.
 
-OASIS offers a hosted domain and design template for all Open Projects. If you’re starting your project fresh or looking to upgrade your web presence, OASIS staff can help with the set-up of your primary website.
+OASIS provides a hosted domain and offers an optional design template for all Open Projects. 
 
-If your project already has its own website, talk to OASIS staff about transfering it to an OASIS-hosted domain. OASIS requires that the domain is owned and hosted by OASIS. Adherence to the OASIS design template is not required. It is also required that OASIS staff has admin access to the Open Project's website to maintain content related to OASIS (sponsor logos etc.).
+If your project already has its own website, you'll need to transfer it to an OASIS-hosted domain. OASIS staff can help with this. It is also important that OASIS staff have admin access to the Open Project's website, so we can maintain official content, e.g., sponsor logos, press releases, event announcements, etc.
 
-To ensure consistency and fair disclosure, all Open Projects should incorporate the minimum required content described here.
+If you’re starting your project fresh, OASIS staff can set up your site using our customizable design template. If you prefer to use a different template, that's fine too.
+
+While use of the OASIS design template is optional, to ensure consistency and fair disclosure, all Open Projects must incorporate the minimum required content described here.
 
 ### Headers
 
