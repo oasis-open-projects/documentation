@@ -2,13 +2,11 @@
 
 Your project's primary website is often the first place people go to learn about the objectives of your work and how to get involved. Branding for this site should be distinctive for your project, capturing the spirit and culture of your community. Content should be compelling, clear, and easily navigated.
 
-OASIS provides a hosted domain and offers an optional design template for all Open Projects. 
+If your project already has its own website, OASIS staff will help you transfer it to an OASIS-hosted domain. It is important that OASIS staff have admin access to the website, so we can maintain official content, e.g., sponsor logos, press releases, event announcements, etc.
 
-If your project already has its own website, you'll need to transfer it to an OASIS-hosted domain. OASIS staff can help with this. It is also important that OASIS staff have admin access to the Open Project's website, so we can maintain official content, e.g., sponsor logos, press releases, event announcements, etc.
+If you’re starting your project fresh, OASIS staff will set up your site using our customizable design template. If you prefer to use a different theme for your site, let us know.
 
-If you’re starting your project fresh, OASIS staff can set up your site using our customizable design template. If you prefer to use a different template, that's fine too.
-
-While use of the OASIS design template is optional, to ensure consistency and fair disclosure, all Open Projects must incorporate the minimum required content described here.
+To ensure consistency and fair disclosure, all Open Projects must incorporate the minimum required content described here.
 
 ### Headers
 
