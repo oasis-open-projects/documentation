@@ -1,6 +1,6 @@
 ## CLAs
 
-All contributions to Open Project repositories require signing a Contributor License Agreement (or **CLA**). The [Individual CLA](https://cla-assistant.io/eea-oasis/managed-open-project) binds each contributor and participant to the repository's license. Only persons who have signed the CLA will be permitted to submit content other than comments or suggestions for [**Non-Material Changes**](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dNonmaterialChange).
+All contributions to Open Project repositories require signing a Contributor License Agreement (or **CLA**). The [Individual CLA](https://www.oasis-open.org/open-projects/cla/oasis-open-projects-individual-contributor-license-agreement-i-cla/) binds each contributor and participant to the repository's license. Only persons who have signed the CLA will be permitted to submit content other than comments or suggestions for [**Non-Material Changes**](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dNonmaterialChange).
 
 Where Contributions are made by or on behalf of an organization, that organization may provide an [Entity CLA](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/). Project Sponsors must provide an Entity CLA, and the persons appointed by them as PGB members must provide an Individual CLA in order to serve. Individuals may also be required by the Individual CLA to obtain an Entity CLA for the organization they represent.
 
