@@ -4,7 +4,7 @@ This document is intended to give you a high-level understanding of the onboardi
 
 ### 1. Submitting your Open Project application
 
-- [ ] Request a [charter template][charter] in your preferred format: Google Doc, Markdown, or word processing file. 
+- [ ] Request a [charter template](https://github.com/oasis-open-projects/documentation/blob/main/templates/draft-charter.md) in your preferred format: Google Doc, Markdown, or word processing file. 
 
 - [ ] Work collaboratively with your community shareholders to craft your OP charter. 
 
