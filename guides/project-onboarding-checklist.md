@@ -8,7 +8,7 @@ This document is intended to give you a high-level understanding of the onboardi
 
 - [ ] Work collaboratively with your community shareholders to craft your OP charter. 
 
-- [ ] Identify initial sponsors. Each sponsor organization [pays dues according to its size](https://www.oasis-open.org/join-2/#membership-dues-op) and will have the option to hold a seat on your Project Governing Board (PGB). Once you secure enough commitments to fund the launch phase (at least $25,000 in combined dues and/or donations), OASIS staff will reach out to the broader community and take responsibility for recruiting additional sponsors. 
+- [ ] Identify initial sponsors. Each sponsor organization [pays dues according to its size](https://www.oasis-open.org/join-an-open-project/) and will have the option to hold a seat on your Project Governing Board (PGB). Once you secure enough commitments to fund the launch phase (at least $25,000 in combined dues and/or donations), OASIS staff will reach out to the broader community and take responsibility for recruiting additional sponsors. 
 
 - [ ] Discuss any specific requirements your project may have with OASIS staff (e.g. resources, infrastructure requirements, special software needs, etc.) 
 
