@@ -18,7 +18,7 @@ Among other duties:
 
 * Maintainers should take care to uphold the OASIS commitment to archival permanence; they should not delete any contributions made to the Open Project.
 
-* Maintainers should also take care to ensure that Git/GitHub methods and workflows used to merge pull requests, resolve merge conflicts, and manage branches do not delete data or obscure revision metadata (e.g., "git rebase", "git push --force", "git reset"), since all data and revision history metadata are a vital part of the public record of contributors' actions over time.
+* Maintainers should also take care to ensure that Git/GitHub methods and workflows are used to merge pull requests, resolve merge conflicts, and manage branches to not delete data or obscure revision metadata (e.g., "git rebase", "git push --force", "git reset"), since all data and revision history metadata are a vital part of the public record of contributors' actions over time.
 
 
 ## Contact
