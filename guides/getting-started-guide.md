@@ -22,7 +22,7 @@ If you have a question or need help at any step in the process, please don't hes
 
 The first step to starting your Open Project is to draft a charter, which describes the goals and scope of your Project and provides relevant information for attracting broad participation and feedback. Drafting the charter and getting feedback from other stakeholders helps focus your attention on what is most impactful and important to the project and helps everyone stay on the same page throughout the process.
 
-Begin by reviewing the [Open Project Charter Template](https://github.com/oasis-open-projects/documentation/blob/master/templates/draft-charter.md). We recommend openly collaborating on the charter with others via shared editing tools like Google Docs or via an issue on GitHub. If you need help setting this up, let us know. 
+Begin by reviewing the [Open Project Charter Template](https://github.com/oasis-open-projects/documentation/blob/master/templates/draft-charter-v2.md). We recommend openly collaborating on the charter with others via shared editing tools like Google Docs or via an issue on GitHub. If you need help setting this up, let us know. 
 
 The template requires eight sections of content:
 
