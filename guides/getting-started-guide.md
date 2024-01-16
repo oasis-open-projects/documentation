@@ -71,13 +71,19 @@ Submitting your final charter kicks off our internal pre-launch checklist proces
 
 There are many ways to participate in an Open Project, formally and informally. Anyone can view the Project’s activity, assets, and repository forks, and download copies of repositories. ***Participants*** (anyone with a GitHub account) can submit comments, report bugs, open issues, and request new features. ***Contributors*** are people who have signed the project's CLA and thus can submit contributions by creating pull requests.
 
-***Maintainers*** maintain the codebase, review and approve pull requests, build binary packages for distribution, and generally act as the editors and managers of the project's repositories. As such, commitment and expertise are key criteria for selecting Maintainers. Maintainers see to it that the technical consensus of the PGB and the community guide the project work. An Open Project must have at least one Maintainer; ideally there should be a maintainer team overseeing all of the project's repositories.  
+***Maintainers*** maintain the codebase, review and approve pull requests, build binary packages for distribution, and generally act as the editors and managers of the project's repositories. As such, commitment and expertise are key criteria for selecting Maintainers. In general, a suitable maintainer should be an expert in one or more fields related to the project and should be able to contribute in ways that substantially improve the quality of the project and the experience of people who use it.
+
+Maintainers see to it that the technical consensus of the PGB and the community guide the project work. An Open Project must have at least one Maintainer; ideally there should be a maintainer team overseeing all of the project's repositories.  
 
 The ***Project Governing Board (PGB)*** develops and manages the overall product strategy of the Project, votes on major releases, and decides if/when to submit work for standards approval. They are responsible for ensuring that there is a designated Maintainer for project repos. They are also responsible for making sure important updates and messages about the project are sent to the community in a timely fashion, via mailing lists and social channels. A PGB may choose to form additional committees and/or other groups related to project efforts, such as marketing, events, and so forth, to delegate these tasks.  
 
+Ideally, your company’s PGB representative is a person that has decision making ability on related issues at your company and is able to commit to monthly meetings.
+
 The PGB will select one or two of its members to serve as Chairperson(s). The role of the ***Chair*** is to manage the PGB’s logistics, agenda, and decision-making. The Chair(s) help the PGB reach consensus on topics, coordinate and lead meetings of the PGB or the broader community and, when needed, work with OASIS staff on related events, assist the maintainer(s) when necessary, and act as the project's main point of contact with OASIS staff. PGB activities are suspended while the Chair role is vacant.
 
-The ***Technical Steering Committee (TSC)*** is chartered by the PGB to direct the day-to-day technical activities of the project. The TSC may be comprised of Maintainers, Contributors, and Project Sponsors as best suits the project - the responsibilities, appointment criteria, and size of the TSC is determined by the PGB in concert with the needs and preferences of its community.
+The ***Technical Steering Committee (TSC)*** is chartered by the PGB to direct the day-to-day technical activities of the project. The TSC may be composed of Maintainers, Contributors, and Project Sponsors as best suits the project - the responsibilities, appointment criteria, and size of the TSC is determined by the PGB in concert with the needs and preferences of its community.
+
+We recommend that one or more of the TSC members is familiar with Open Source processes and GitHub. 
 
 As you prepare to launch your Open Project, it is important to identify the people who will be filling these important roles and help them understand and accept their responsibilities. Projects may chose to adjust these roles or add new ones, but the structure outlined in this section describes the  minimum governance model required of all Open Projects. 
 
