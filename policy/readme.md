@@ -13,3 +13,37 @@ They apply to all Open Projects and to the OASIS Open Projects program repositor
 Changes to rules & policies must be approved by the OASIS Board of Directors and will apply to previously-established Open Projects upon their adoption (there is no 'grandfather' clause). However, OASIS may not change the terms of any signed CLA once it has been delivered to OASIS.
 
 [rules]: ../board-docs/open-projects-rules.md
+
+## Frequently Asked Questions - Policy
+
+<details>
+<summary><b>What commitments do we make to the Open Project (OP) when we join it and contribute materials?</b></summary>
+Open Project contributors who are not on a Project Governing Board (PGB) make the standard open source promise, i.e., "whatever we GIVE you explicitly, you have a FOSS license to re-use." There are no implied patent grants (or any other kind of grant) beyond that. Companies and individuals only contribute what they want to give freely.
+
+Members of an Open Project's Project Governing Board (PGB) have an additional, broader obligation towards any final, approved specifications advanced by the PGB as outputs. PGB member companies or individuals also give a non-assertion covenant,
+with respect to any patents they have that would necessarily be infringed by implementation of the final approved specification. However, this covenant only benefits final specifications approved by the PGB, and doesn't touch any other patents that may be held.
+
+Note that a company can be an Open Project Sponsor without electing to have a representative on the PGB. In that case, only the first committment above would apply. 
+</details>
+
+<details>
+<summary><b>What rights do you give up when you contribute code to an Open Project?</b></summary>
+When you make a contribution under an open source license, by definition you’re permitting others to add to, alter, and fork your contribution.  As in all FOSS projects, it’s a perpetual permission (contributions cannot be “taken back”), so the primary tool for convergence on specific code and builds is the consensus of your development community, and ultimately, your installed base. (There is one canonical Apache server codebase, not 20, because the Apache Foundation community designated it so, and implementers agreed.)        
+As a contributor of code, you only give a nonexclusive license to others. You retain all rights to use your own work in other open or proprietary purposes. All you “give up” is the right to sue someone else for infringement for using your contribution.
+
+Since OASIS Open Projects rules enable potential for submitting work into the open standards process, the usual FOSS licenses for your own contributions are joined by a second license commitment from all PGB members (the “Specification NonAssertion Covenant”) to support stable outputs with their patent rights if any.  But a PGB member may withdraw from the group (an “early exit”), which cuts off their duty to any future builds, so they retain the right to depart if the project heads in an unanticipated direction.  
+</details>
+
+<details>
+<summary><b>Does OASIS Open Projects handle compliance with US Export Administration Regulations?</b></summary>
+Standards organizations and most open-source foundations rely on each of their members to evaluate and confirm their own compliance with all applicable laws.  This includes export control and licensing issues that might apply under any relevant jurisdiction.  This is because every party's situation as a possible contributor or participant is different:  what may be permissible for one party may not be for another, depending on their other activities and their location.  
+
+We're happy to talk with any potential participant about possible options for handling such issues, one-on-one and confidentially if requested, as we have some experience with those matters;  but OASIS can't give legal advice or act as any party's lawyers.
+</details>
+
+<details>
+<summary><b>Can I use my existing GitHub organization for my Open Project?</b></summary>
+Yes, but the OASIS Open Project Administrator user account must be made an ‘Owner’ of your project’s repositories. This allows us to administer tooling, help keep your project in compliance with Open Project rules, and periodically run backups per our [visibility and archival permanence policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/visibility-and-archiving.md). 
+
+If your project is part of a GitHub organization associated with an enterprise company, you may want to consider moving it to its own organization or to OASIS’s organization to better signal that the work is the product of an open collaboration.
+</details>
